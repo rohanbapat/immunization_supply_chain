@@ -1,0 +1,20 @@
+Vaccine,Acronym,SC Sizing Tool Name,Start Week,End Week,Vaccination Window,Average packed volume secondary package,Wastage
+BCG,BCG,BCG,0,1,1,2.25,0.5
+Hepatitis B,Hep B,Hepatitis B,0,1,1,16.8,0.1
+Oral Polio Vaccine 0,OPV,Polio Vaccine - Oral (OPV) Trivalent,0,1,1,3.2,0.1
+Oral Polio Vaccine 1,OPV,Polio Vaccine - Oral (OPV) Trivalent,5,6,1,3.2,0.1
+Pentavalent 1,Penta,Diphtheria-Tetanus-Pertussis (whole cell)-Hepatitis B-Haemophilus influenzae type b,5,6,1,58.7,0.1
+Rotavirus Vaccine 1,Rotavac,Rotavirus,5,6,1,85.3,0.25
+Inactivated Polio Vaccine 1,fIPV,Polio Vaccine - Inactivated (IPV),5,6,1,17.575,0.1
+PCV 1,PCV,Pneumococcal (conjugate),5,6,1,17.575,0.1
+Oral Polio Vaccine 2,OPV,Polio Vaccine - Oral (OPV) Trivalent,9,10,1,3.2,0.1
+Pentavalent 2,Penta,Diphtheria-Tetanus-Pertussis (whole cell)-Hepatitis B-Haemophilus influenzae type b,9,10,1,58.7,0.1
+Rotavirus Vaccine 2,Rotavac,Rotavirus,9,10,1,85.3,0.25
+Oral Polio Vaccine 3,OPV,Polio Vaccine - Oral (OPV) Trivalent,12,14,2,3.2,0.1
+Pentavalent 3,Penta,Diphtheria-Tetanus-Pertussis (whole cell)-Hepatitis B-Haemophilus influenzae type b,12,14,2,58.7,0.1
+Rotavirus Vaccine 3,Rotavac,Rotavirus,12,14,2,85.3,0.25
+Inactivated Polio Vaccine 2,fIPV,Polio Vaccine - Inactivated (IPV),12,14,2,17.575,0.1
+PCV 2,PCV,Pneumococcal (conjugate),12,14,2,17.575,0.1
+Measles & Rubella 1,Measles/MR,Measles and Rubella,39,52,13,21.09,0.25
+Japanese Encephalitis JE-1,JE,Japanese Encephalitis Vaccine (Inactivated),39,52,13,14.7,0.25
+PCV Booster,PCV,Pneumococcal (conjugate),39,52,13,17.575,0.1

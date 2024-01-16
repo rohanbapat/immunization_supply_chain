@@ -1,0 +1,1108 @@
+AWC Latitude,AWC Longitude,AWC Name,AWC_ID,key,PHC_ID,Primary Health Centre Name,Primary Health Centre Location,Mandal,PHC Latitude,PHC Longitude,PHC Full Name,Distance
+17.093,77.6355,KODANGAL-1,1409001,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",2.2116764366484984
+17.1069,77.6244,KODANGAL-2,1409002,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",0.30147357904805383
+17.1038,77.6295,KODANGAL-3,1409003,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",0.8682458959706477
+17.0924,77.6362,KODANGAL-4,1409004,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",2.3085111156260916
+17.1171,77.6494,KODANGAL-5,1409005,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",2.824232780032149
+17.112000000000002,77.6255,KODANGAL-6,1409006,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",0.3114339068065362
+17.1044,77.6323,KODANGAL-7,1409007,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",1.0526087155519974
+17.1069,77.6244,KODANGAL-8,1409008,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",0.30147357904805383
+17.1042,77.6219,KODANGAL-9,1409009,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",0.6396492541200756
+17.0924,77.6362,KODANGAL-10,1409010,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",2.3085111156260916
+17.1409,77.6054,KODANGAL-11,1409011,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",4.00456927219432
+17.1069,77.6244,KODANGAL-12,1409012,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",0.30147357904805383
+17.095,77.6023,CHITLAPALLY-1,1409013,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",2.82065612366696
+16.9873407,77.71090579999999,CHITLAPALLY-2,1409014,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",16.088108884112422
+17.0957,77.6029,KHAJAAHMEDPALLY,1409015,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",2.7238594916567
+17.102713,77.5975805,POSHAMMA TANDA,1409016,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",2.9113411957851127
+17.101,77.6156,KONDAREDDYPALLY,1409017,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",1.3080898844608495
+17.0957,77.6029,BULKA POOR,1409018,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",2.7238594916567
+17.093739000000003,77.5814639,INNANPALLY,1409019,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",4.835223152239081
+17.0715,77.5929,CHINNA NANDIGAMA,1409020,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",5.373159463542972
+17.08533,77.63911479999999,BURUJKHANPALLY,1409021,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",3.1385299604466015
+17.110491800000002,77.62181770000001,RAWALAPALLY-I,1409022,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",0.25421294341056944
+17.0472,77.5223,RAWALAPALLY-II,1409023,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",4.5994683275847885
+17.0559,77.4976,RAWALAPALLY-III,1409024,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",5.348098814304581
+17.0472,77.5223,RAWALAPALLY-IV,1409025,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",4.5994683275847885
+17.0592,77.5083,INDANOOR-1,1409026,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",4.255866136493511
+17.059,77.5082,INDANOOR-II,1409027,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",4.279103762109315
+17.059,77.4961,KASTOORPALLY-1,1409028,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",5.267407753298482
+17.0602,77.4921,KASTOORPALLY-II,1409029,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",5.54996132851473
+17.1409,77.6054,UDMESHWARAM,1409030,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",4.00456927219432
+17.1042,77.6219,ERRANPALLY-I,1409031,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",0.6396492541200756
+17.1502,77.5947,ERRANPALLY-II,1409032,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",5.486159366392714
+17.0556,77.6522,HUSNABAD-1,1409033,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",6.709014209032833
+17.0739,77.6814,HUSNABAD-2,1409034,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",7.276418841077487
+17.0566,77.6546,HUSNABAD-3,1409035,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",6.729168643653522
+17.0512,77.6503,HUSNABAD-4,1409036,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",7.067897923907587
+17.051,77.6483,HUSNABAD-5,1409037,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",7.007264234807311
+17.039,77.6468,ALID,1409038,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",8.214006131402913
+17.0924,77.6362,PARSAPUR-1,1409039,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",2.3085111156260916
+17.1,77.6314,PARSAPUR-II,1409040,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",1.3237576920531862
+17.0843,77.6854,Gopya Thanda,1409041,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",7.104246088620667
+17.0738,77.6815,PALGURALLA TANDA,1409042,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",7.291393845743894
+17.0842,77.6822,YEKACHERU TANADA,1409043,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",6.797861412242531
+17.0863,77.6517,PATTA KODANGAL,1409044,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",3.9195150366233693
+17.0936,77.6631,PATTA KODANGAL TANDA,1409045,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",4.518343782354324
+17.0562,77.604,PEDDANANDIGAMA-I,1409046,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",6.305899516920466
+17.0566,77.6076,PEDDANANDIGAMA-II,1409047,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",6.144650473149948
+17.0807,77.633,GUNDLAKUNTA ,1409048,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",3.350957533808424
+17.0957,77.6029,PIYALAMADDI,1409049,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",2.7238594916567
+17.0693,77.6189,HUSSAINPUR,1409050,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",4.5124544164297635
+17.1328,77.5114,RUDRARAM-1,1409051,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",5.833506220143818
+17.1353,77.5109,RUDRARAM-2,1409052,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",6.105294902239505
+17.1349,77.5116,RUDRARAM-3,1409053,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",6.032366680628347
+17.1333,77.5102,RUDRARAM-4,1409054,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",5.942190937885953
+17.1354,77.51100000000001,RUDRARAM-5,1409055,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",6.1104865957905705
+17.1348,77.5093,RUDRARAM-6,1409056,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",6.134383901650298
+17.1132,77.4789,BHAVANAMMA (T),1409057,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",6.83213236077999
+17.1082,77.4663,BHEEMALI (T),1409058,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",7.866760751927459
+17.1594,77.493,PATIMIDIPALLY,1409059,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",9.366683631824829
+17.1040783,77.5202,UPPERPALLY,1409060,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",2.646071761424019
+17.1426,77.5311,NASARAM,1409061,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",6.296802354731245
+17.0582,77.4951,ANNARAM-I,1409062,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",5.405538226442271
+17.0562,77.5434,ANNARAM-II,1409063,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",3.414286333755829
+17.0576,77.4969,TEKULCODE-I,1409064,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",5.2902186976241605
+17.0595,77.4972,TEKULCODE-II,1409065,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",5.1398085639851505
+17.0576,77.4969,TEKULCODE (T),1409066,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",5.2902186976241605
+17.1019,77.4672,BOYAPALLY TANDA,1409067,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",7.585054589221555
+17.0943,77.6016,LAXMIPALLY,1409068,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",2.9263567119241363
+17.0957,77.6029,SANSAIPALLY,1409069,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",2.7238594916567
+17.0627,77.5499,ANGADIRAICHUR-I,1409070,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",2.9702151712190554
+17.0598,77.5488,ANGADIRAICHUR-II,1409071,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",3.2089595872420253
+17.0919,77.539,ANGADIRAICHUR-III,1409072,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",0.6788441416236755
+17.0598,77.5488,ANGADIRAICHUR-IV,1409073,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",3.2089595872420253
+17.0582,77.4951,DHARMAPUR,1409074,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",5.405538226442271
+17.1592,77.7369,BOMRASPET -1,1409075,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",0.33861500902026115
+17.168,77.7404,BOMRASPET -1I,1409076,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",0.8296223341015516
+17.1708,77.7416,BOMRASPET -1II,1409077,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",1.1549453969180743
+17.1652,77.7393,BOMRASPET -1V,1409078,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",0.5175914348525733
+17.1669,77.7381,GAJULAKUNTA TANDA,1409079,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",0.7258790993278601
+17.1507,77.7459,METLAKUNTA - I,1409080,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",1.2768604083101711
+17.1579,77.785,METLAKUNTA - II,1409081,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",4.816838011124234
+17.1507,77.7459,LUTKUNTA TANDA,1409082,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",1.2768604083101711
+17.1792,77.7771,MAISHAMMAGADDA TANDA,1409083,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",4.476590313085166
+17.1507,77.7459,BHUJANNAGADDA (T),1409084,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",1.2768604083101711
+17.1507,77.7459,BURRAI TANADA,1409085,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",1.2768604083101711
+17.1579,77.785,DEPPLANAIK TANDA,1409086,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",4.816838011124234
+17.1792,77.7771,Gubbadi Thanda,1409087,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",4.476590313085166
+17.1767,77.7815,Buranpur - 1,1409088,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",4.784737950039465
+17.1897281,77.7618374,Buranpur - 2,1409089,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",4.002770189543071
+17.1235,77.6688,SURIYA NAIK TANDA,1409090,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",5.004562171521384
+17.1863,77.7491,Thettakunta Thanda,1409091,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",3.0291346573490094
+17.2086,77.7629,NARSIYA NAIK TANDA,1409092,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",5.880250754528825
+17.1546,77.7294,GIDDIGANI TANDA,1409093,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",1.2841085737407123
+17.2193343,77.7711345,MADANPALLY ,1409094,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",7.336204240099865
+17.2109,77.7646,MADANPALLY TANDA,1409095,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",6.188343540591964
+17.1668,77.7381,SALIMDAPUR,1409096,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",0.7150933810116513
+17.1624,77.756,Malakunta Thanda,1409097,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",1.7385891494303494
+17.1685,77.7664,TEKULAGADDATANDA,1409098,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",2.9657573013479057
+17.1392,77.6974,MAHANTIPUR,1409099,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",5.088261037235387
+17.1104656,77.62171540000001,JANAKAMPALLY,1409100,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",0.2631334155965186
+17.1458,77.7284,DUPCHERLLA,1409101,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",2.037028358381103
+17.1194,77.7375,NAMDARPUR-I,1409102,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",4.583572930304999
+17.1194,77.7376,NAMDARPUR-II,1409103,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",4.583031231754617
+17.1018,77.6507,MEDUHITTU TANDA,1409104,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",2.965285307505482
+17.1007,77.7399,BORABANDA TANDA,1409105,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",6.656703621948482
+17.1503,77.7333,TUNKIMETLA-I,1409106,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",1.331284026336321
+17.1482,77.7328,TUNKIMETLA-II,1409107,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",1.560619940183633
+17.1406083,77.7063964,BUTLONI TANDA,1409108,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",4.181188875380039
+17.0551,77.6792,DUDUIYAL-I,1409109,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",8.432823550977487
+17.0551,77.6792,DUDUIYAL-II,1409110,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",8.432823550977487
+17.0551,77.6792,DUDUIYAL-III,1409111,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",8.432823550977487
+17.0269,77.6799,DUDUIYAL-IV,1409112,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",10.946436742681538
+17.0248,77.6824,DUDUIYAL-V,1409113,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",11.287217069702576
+17.0248,77.6824,DUDUIYAL-VI,1409114,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",11.287217069702576
+17.0248,77.6824,ALIKHANPALLY,1409115,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",11.287217069702576
+17.0944,77.7439,ERRUPUMALLA -I,1409120,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",7.370423505310075
+17.1151,77.7587,ERRUPUMALLA -II,1409121,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",5.441764293679951
+17.1272,77.7646,KAKARLAGANDI TANDA,1409122,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",4.5537467138793915
+17.1456,77.7239,CHOWDERPALLY-I,1409123,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",2.367415859041639
+17.1417,77.7094,CHOWDERPALLY-II,1409124,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",3.846850554196353
+17.0944,77.744,BAPALLYTANDA,1409125,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",7.371067097231936
+17.1034,77.7612,PALABAI TANDA,1409126,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",6.752795708766017
+17.1168,77.7601,SHEETA NAIK TANDA,1409127,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",5.325264982523313
+17.0641,77.7375,ERLAPALLY-1,1409128,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",10.729081041399354
+17.0641,77.7375,YELLAGADDA TANDA,1409129,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",10.729081041399354
+17.0757,77.7375,SATTURKUNTA TANDA,1409130,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",9.43958351734725
+17.0545,77.7339,Nanya Nayak Thanda,1409131,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",11.618345617920035
+17.0916,77.7279,GOUWRARAM-1,1409132,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",7.771240891335011
+17.0915,77.72800000000001,GOUWRARAM-1I,1409133,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",7.780501478480302
+17.0939,77.7115,SAGARAM TANDA,1409134,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",7.997551153224889
+17.051,77.7241,LAGACHERLLA-I,1409135,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",12.296064112402643
+17.0532,77.7307,LAGACHERLLA-II,1409136,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",11.977114356460229
+17.0577,77.7339,LAGACHERLLA TANDA,1409137,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",11.454943906134954
+17.1213,77.6669,REGADIMAILARAM-1,1409138,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",4.739996677817068
+17.124000000000002,77.6669,REGADIMAILARAM-1I,1409139,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",4.831098718312873
+17.1177,77.6652,MUDOMAMILA TANDA,1409140,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",4.468923990152858
+17.1177,77.6652,B.K. NAIK TANA,1409141,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",4.468923990152858
+17.1219,77.6681,BAMACHERU TANDA,1409142,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",4.881025036284299
+17.1406,77.7071,NAGAREDDYPALLY,1409143,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",4.118517208682856
+17.1517,77.692,KUTHUR-I,1409144,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",5.168079656015757
+17.1517,77.6921,KUTHUR-II,1409145,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",5.157650386189145
+17.1397,77.6985,RAMNAIK TANDA,1409146,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",4.958945725515649
+17.1489,77.7406,KATTUKALVA TANDA,1409147,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",1.3002363845879885
+17.1651,77.6815,LINGA NAIK TANDA,1409148,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",6.209083562681315
+17.1788,77.6012,VADCHERLLA-1,1409149,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",5.9089573277022325
+17.1788,77.6012,VADCHERLLA-1I,1409150,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",5.9089573277022325
+17.1701,77.6154,URUVENKI TANDA,1409151,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",5.653064461040643
+17.1762,77.6724,EMMMIDI TANDA,1409152,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",5.131717754504371
+17.2496862,77.63947280000001,YENKAIPALLY-I,1409153,1,6,PP Unit,Tandur,Tandur,17.265904000000003,77.619613,"PP Unit, Tandur, Tandur",2.7747867926275505
+17.1514,77.6332,YENKAIPALLY-II,1409154,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",4.750863887448195
+17.1134,77.6663,CHILMULMAILARAM-I,1409155,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",4.513817774213034
+17.0967,77.6819,CHILMULMAILARAM-II,1409156,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",6.316641511509369
+17.0967,77.6819,CHITTUPALLI TAND,1409157,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",6.316641511509369
+17.096928600000002,77.68198559999999,SATUKUNTA TANDA,1409158,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",6.319788900945056
+17.0966,77.6977,PULLIBAI TANDA,1409159,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",7.963182563034192
+17.0869,77.7072,MUCHUKUNTANDA,1409160,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",8.891509553000889
+17.0967,77.6819,EKKACHERUTANDA,1409161,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",6.316641511509369
+17.1065,77.7095,AMSANPALLY,1409162,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",6.8170870635981275
+17.1018,77.6505,NAGZKHANPALLY,1409163,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",2.9449627493449064
+17.1184,77.7016,LINGANPALLY,1409164,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",6.197898141980415
+17.0079,77.5633,DOULTABAD-I,1409165,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",0.300602414747917
+17.008,77.5633,DOULTABAD-II,1409166,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",0.2922052698164503
+17.0076,77.5663,DOULTABAD-III,1409167,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",0.576607555206283
+17.0098,77.5651,DOULTABAD-IV,1409168,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",0.3860868570626825
+17.0064,77.5651,DOULTABAD-V,1409169,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",0.5529030724929527
+17.0071,77.5676,DOULTABAD-VI,1409170,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",0.7251136667374493
+16.9804,77.5803,RamankuntaTanda,1409171,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",3.8489256639931635
+16.9766,77.5688,RAIYALAGATTU TANDA,1409172,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",3.790734635615214
+16.9576,77.57300000000001,GOKAFASLABAD-I,1409173,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",5.95014273523227
+16.956,77.5715,GOKAFASLABAD-II,1409174,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",6.094423856026026
+16.959,77.5738,GOKAFASLABAD-III,1409175,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",5.8164789634137835
+16.9365,77.5687,PULKAMPALLY,1409176,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",8.204792429077967
+16.9184,77.5776,Sevabanda Thanda,1409177,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",10.32480784770953
+16.9318,77.5662,KISTANAIK TANDA,1409178,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",8.705856506192573
+16.9411,77.5801,WALKI TANDA,1409179,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",7.909314480424553
+16.9184,77.5509,NAGASAGAR,1409180,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",10.243252568024593
+16.9177,77.5505,TIMMLAPUR,1409181,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",10.325344278240136
+16.9184,77.5306,HANMINAIK TANDA(Mini),1409182,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",10.697727507318882
+16.9186,77.57600000000001,DEVARFASLABAD - I,1409183,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",10.27591869642958
+16.9186,77.5775,DEVARFASLABAD - II,1409184,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",10.301113119983906
+16.9186,77.5776,DEVARFASLABAD - III,1409185,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",10.30287839131092
+16.9247,77.5916,Lottigutta Thanda,1409186,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",10.007616542617772
+16.9187,77.5761,BHAGYA NAIK TANDA,1409187,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",10.26653190787295
+16.9354,77.5779,NANDINAIK TANAD,1409188,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",8.473091611699
+16.9573,77.5201,BALLAMPET-I,1409189,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",7.324589299564782
+16.9574,77.5201,BALLAMPET-II,1409190,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",7.315701838396117
+16.9378,77.5298,SULTANAPUR,1409191,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",8.70250734090232
+16.9568,77.5513,TEMMAREDDYPALLY,1409192,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",6.009635560097665
+16.9569,77.5514,TEMMAREDDYPALLY-II,1409193,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",5.996789208188247
+16.9794,77.5526,BANDIWADA TANDA,1409194,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",3.527002875230961
+16.9576,77.5731,CHELLAPUR-I,1409195,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",5.9523427522356505
+16.9767,77.613,CHELLAPUR-II,1409196,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",6.6108878904998996
+16.9768,77.6135,ERLAPALLY-2,1409197,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",6.648849211917365
+17.0865,77.5486,CHANDRAKAL,1409198,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",1.2698723078424636
+17.0400639,77.5108821,CHANDRAKAL-II,1409199,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",5.817925417703819
+17.0277,77.5204,Dasarigudem,1409200,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",4.791812713105312
+17.0277,77.5205,KUPPAGIRI,1409201,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",4.782124535904229
+17.0425,77.5416,MATOOR-I,1409202,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",4.189750009169602
+17.0424,77.5416,MATOOR-II,1409203,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",4.180152108176939
+17.0515,77.5709,NETTOR-I,1409204,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",4.726199638158938
+17.0508,77.5692,NETTOR-II,1409205,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",4.6145835484899305
+17.0318,77.5742,NARSAPOOR,1409206,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",2.7797666770777605
+17.0318,77.5742,KOWDEED,1409207,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",2.7797666770777605
+17.0263,77.5911,NANDARAM,1409208,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",3.6363790644175458
+16.9886,77.4996,BICHYAL-I,1409209,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",6.995060336424325
+16.9885,77.4996,BICHYAL-II,1409210,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",6.9988458765006545
+17.0083,77.5193,Bichal Thanda,1409211,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",4.488110609613481
+17.0253,77.6348,KUDURMALLA,1409212,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",7.9809202260890935
+17.0253,77.6348,KUDURMALLA-II,1409213,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",7.9809202260890935
+17.0455,77.6003,Sangaipally,1409214,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",5.714532115615268
+17.0343,77.6101,Sangaipally Thanda,1409215,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",5.835600434701024
+17.0206,77.6032,EMDAPUR,1409216,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",4.59168207607263
+16.9728,77.6515,Uragunta ,1409217,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",10.427343650066721
+17.0511,77.6613,Uragunta Thanda,1409218,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",7.615777422573884
+17.0196,77.5953,YAMKI,1409219,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",3.7529882531584327
+17.0135,77.585,DASTAIALLY,1409220,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",2.532343708094063
+16.9576,77.5731,SURAIPALLY-1,1409221,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",5.9523427522356505
+17.0472671,77.64520040000001,SURAIPALLY-2,1409222,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",7.286276230524436
+17.0143518,77.6287327,SALEEMPUR,1409223,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",7.168310258157711
+16.9567,77.4813,ANTHWAR-1,1409224,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",10.381255801583787
+16.9649,77.4948,ANTHWAR-2,1409225,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",8.682123088199575
+16.9975,77.5429,Gumdal-I,1409226,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",2.4126553550336682
+16.9975,77.5429,Gumdal-II,1409227,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",2.4126553550336682
+16.9566,77.5217,GUNDIPALLY,1409228,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",7.286905792916678
+16.9785,77.5331,ALLAPUR,1409229,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",4.6198489159067755
+16.9646,77.5194,TIMMIYAPALLY,1409230,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",6.742526199478067
+17.1137,77.6183,Maisammagadda thanda (Mini),1409231,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",0.7602689925459782
+17.0425,77.5933,Peddanandhigama (Mini),1409232,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",4.953813083768929
+17.0757,77.7378,Gattameedhi thanda (Mini),1409233,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",9.438830142483704
+17.1535,77.7643,Pulzanaik thanda (Mini),1409234,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",2.7241948252939907
+17.0517,77.7303,Valyanaik thanda,1409235,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",12.085855094757283
+17.1748,77.6829,Enimidhi thanda (Mini),1409236,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",5.9763202742279775
+16.9386904,77.52987540000001,Bangla Thanda(Mini),1409237,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",8.60816551860114
+17.0147,77.6253,Immudapur (Mini),1409238,1,26,Primary Health Centre,Doulthabad,Doulthabad,17.009963,77.56147299999999,"Primary Health Centre, Doulthabad, Doulthabad",6.807085942123169
+17.5155,77.8926,Mominpet - I,1506001,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",0.4697610139752458
+17.5192,77.8918,Mominpet - II,1506002,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",0.5315218510009487
+17.5227,77.8965,Mominpet - III,1506003,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",0.5762127342969443
+17.5234,77.8969,Mominpet - IV,1506004,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",0.6554778380254662
+17.5078998,77.87978050000001,Chandrayanpally,1506005,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",2.069825307137644
+17.564,77.8937,Burgupally,1506006,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",5.177032693159331
+17.522000000000002,77.9433,Tekulpally - I,1506007,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",4.988335840863244
+17.522000000000002,77.9434,Tekulpally - II,1506008,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",4.998886594036485
+17.4987,77.944,Enkathala - I,1506009,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",5.455191902322266
+17.4970438,77.9397755,Enkathala - II,1506010,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",5.123555025495495
+17.4977,77.9403,Enkathala - III,1506011,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",5.141742134644224
+17.4961,77.9914,Chakrampally,1506012,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",8.233266876059314
+17.4699,77.97800000000001,Deverapally,1506013,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",5.004617055597175
+17.5523,77.9101,Rallagudpally,1506014,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",4.127947342678801
+17.5493,77.9087,Mekavanampally,1506015,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",3.763590250806891
+17.4667,78.0034,Cheemaldari,1506016,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",6.16916216232716
+17.4087,77.6838,Rompally II,1506017,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",4.41538239105929
+17.5622,77.8951,Amradikalan,1506018,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",4.970603271973644
+17.5608,77.8712,Amradikurdu,1506019,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",5.509394831886911
+17.5608,77.8712,Kolkunda(New),1506020,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",5.509394831886911
+17.5659,77.8341,Narsapoor,1506021,1,7,Primary Health Centre,Patloor,Marpally,17.579466,77.79649599999999,"Primary Health Centre, Patloor, Marpally",4.26211967174523
+17.4637,77.8894,Velchal - I,1506022,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",6.031369345520619
+17.4895,77.8707,Morangapally - I,1506023,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",4.145736545184201
+17.4895,77.8708,Morangapally - II,1506024,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",4.1387478039349155
+17.4713,77.8122,Izrachittempally,1506025,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",9.064878247363962
+17.4827,77.8413,Kyasaram - I,1506026,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",7.017625299066547
+17.4886,77.8562,Syedalipoor,1506027,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",5.347594944629007
+17.5192,77.8918,Mominpet - V,1506028,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",0.5315218510009487
+17.5248,77.8435,Siripuram - I,1506029,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",5.677108302725966
+17.5238,77.8451,Siripuram - II,1506030,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",5.494011240581747
+17.5069,77.8408,Enkepally-1,1506031,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",6.022519505628485
+17.4908,77.9024,Govindapoor,1506032,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",3.0362493648289854
+17.4728,77.9035,Ramnathgudpally,1506033,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",5.027650119796833
+17.5833,77.7941,Patloor 4,1506034,1,7,Primary Health Centre,Patloor,Marpally,17.579466,77.79649599999999,"Primary Health Centre, Patloor, Marpally",0.49624064592824535
+17.5644,77.919,MekavanampallyTanda,1506035,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",5.733297456259689
+17.4827,77.8413,Kyasaram - II,1506036,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",7.017625299066547
+17.5105,77.8873,Durgamchervu - II,1506037,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",1.2486212613282839
+17.4951,77.9406,Enkathala - IV,1506038,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",5.300206450154664
+17.462836199999998,77.8858529,Durgamchervu - I,1506039,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",6.184143295518431
+17.4894,77.8394,Veerlapally,1506040,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",6.814052663054592
+17.5559622,77.8521202,Kolkunda(Old),1506041,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",6.356671143789883
+17.5572,77.8547,Ravulapally,1506042,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",6.25331495658048
+17.5192,77.8918,Kaslabad,1506043,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",0.5315218510009487
+17.4081,77.7414,Kothapally,1506044,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",2.660544742121193
+17.4054,77.7614,Rampoor - I,1506045,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",2.8841695076082874
+17.4213,77.7667,Enkepally,1506046,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",4.680310341507796
+17.4299,77.75399999999999,Ennaram - I,1506047,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",5.096377782429669
+17.4694,77.7929,Ravulapally - I,1506048,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",8.308998269701355
+17.4753,77.7844,Thimmapoor,1506049,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",7.39862150315193
+17.4747,77.7547,Peddapoor,1506050,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",6.231700547968982
+17.4639,77.8036,Barwad - I,1506051,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",9.3242743103272
+17.4496,77.7954,Barwad - II,1506052,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",8.980599267756673
+17.4384,77.809,Mothkpally - I,1506053,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",9.031877219735026
+17.438,77.8086,Nagsanpally,1506054,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",8.970617407917665
+17.4214,77.7956,Karimpoor,1506055,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",6.730264311257864
+17.4029,77.7847,Jinnaram,1506056,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",4.6517632247698
+17.3974,77.7797,Kankanalpally,1506057,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",3.9188102497959503
+17.4051,77.8206,Beerol,1506058,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",8.308320565202823
+17.5369,77.7709,Marpally - IV,1506059,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",0.6896708715039896
+17.5192,77.8918,Panchalingal - II,1506060,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",0.5315218510009487
+17.5832,77.798,Patloor - I,1506061,1,7,Primary Health Centre,Patloor,Marpally,17.579466,77.79649599999999,"Primary Health Centre, Patloor, Marpally",0.4447572728688041
+17.5873,77.7936,Patloor - II,1506062,1,7,Primary Health Centre,Patloor,Marpally,17.579466,77.79649599999999,"Primary Health Centre, Patloor, Marpally",0.9236074938742305
+17.5853,77.791,Patloor - III,1506063,1,7,Primary Health Centre,Patloor,Marpally,17.579466,77.79649599999999,"Primary Health Centre, Patloor, Marpally",0.8719076416441095
+17.5385,77.7697,Marpally - I,1506064,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",0.5199246323818436
+17.5766,77.7647,Marpally - II,1506065,1,7,Primary Health Centre,Patloor,Marpally,17.579466,77.79649599999999,"Primary Health Centre, Patloor, Marpally",3.3854992139044517
+17.5369,77.7709,Marpally - III,1506066,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",0.6896708715039896
+17.5418,77.805,Kothlapoor - I,1506067,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",4.267240120373615
+17.539,77.7636,Kothlapoor - II,1506068,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",0.13357426200698067
+17.5167,77.7403,Kotmarpally - I,1506069,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",3.608008895223211
+17.5148,77.7561,Kotmarpally - II,1506070,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",2.8642497089744836
+17.608545499999998,77.78454649999999,Ghanapoor,1506071,1,7,Primary Health Centre,Patloor,Marpally,17.579466,77.79649599999999,"Primary Health Centre, Patloor, Marpally",3.472704054351732
+17.6227,77.7605,Zhamshedpoor,1506072,1,7,Primary Health Centre,Patloor,Marpally,17.579466,77.79649599999999,"Primary Health Centre, Patloor, Marpally",6.137328203668321
+17.5723,77.8232,Thumalapally,1506073,1,7,Primary Health Centre,Patloor,Marpally,17.579466,77.79649599999999,"Primary Health Centre, Patloor, Marpally",2.9407448172942443
+17.5784,77.8591,Pilligundla,1506074,1,7,Primary Health Centre,Patloor,Marpally,17.579466,77.79649599999999,"Primary Health Centre, Patloor, Marpally",6.63722784156946
+17.576,77.8544,Gundlamarpally,1506075,1,7,Primary Health Centre,Patloor,Marpally,17.579466,77.79649599999999,"Primary Health Centre, Patloor, Marpally",6.150086809656964
+17.555,77.812,Panchalingal - I,1506076,1,7,Primary Health Centre,Patloor,Marpally,17.579466,77.79649599999999,"Primary Health Centre, Patloor, Marpally",3.178427838969227
+17.622,77.8355,Komshetpally - I,1506077,1,7,Primary Health Centre,Patloor,Marpally,17.579466,77.79649599999999,"Primary Health Centre, Patloor, Marpally",6.281629671230975
+17.6446,77.8222,Mogiligundkla,1506078,1,7,Primary Health Centre,Patloor,Marpally,17.579466,77.79649599999999,"Primary Health Centre, Patloor, Marpally",7.737958751523019
+17.592,77.8213,Bilkal,1506079,1,7,Primary Health Centre,Patloor,Marpally,17.579466,77.79649599999999,"Primary Health Centre, Patloor, Marpally",2.975743489937856
+17.5828,77.835,Dargulapally,1506080,1,7,Primary Health Centre,Patloor,Marpally,17.579466,77.79649599999999,"Primary Health Centre, Patloor, Marpally",4.098265777910118
+17.442,77.7075,Bantaram - I,1506081,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",0.07208617359226835
+17.4421,77.7051,Bantaram - II,1506082,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",0.2661997681545167
+17.4228,77.7018,Edulapally,1506083,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",2.1491947787196897
+17.4568,77.741,Yacharam,1506084,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",3.948564576175196
+17.4386,77.7381,Sulthanpoor,1506085,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",3.2622657797767065
+17.4593,77.7611,Malasomaram,1506086,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",6.0274698300648115
+17.5261,77.7418,Buchanpally - I,1506087,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",2.8432253330804524
+17.5248,77.7425,Buchanpally - III -1,1506088,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",2.857941791042163
+17.5055,77.7107,Damasthapoor,1506089,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",6.854392933455858
+17.4693,77.6543,Thurmamidi - I,1506090,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",6.4407696825895915
+17.4692,77.6542,Thurmamidi - II,1506091,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",6.444713998132304
+17.4698,77.6518,Thurmamidi - III,1506092,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",6.700332467776425
+17.4591,77.6722,Baswapoor,1506093,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",4.231228791819776
+17.461,77.6356,Bopunaram - I,1506094,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",7.932019605162002
+17.4837,77.9021,Mallareddyguda,1506095,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",3.807127862496519
+17.4386,77.7382,Nurullapoor,1506096,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",3.272827506168841
+17.4088,77.6839,Rompally,1506097,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",4.400201835348249
+17.3931,77.7106,Salbathapoor - I,1506098,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",3.8096078234124455
+17.475249899999998,77.72821850000001,Kalkoda - I,1506099,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",4.364042410606559
+17.475,77.7265,Kalkoda,1506100,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",4.250594529081476
+17.5671,77.9204,RallagudpallyTanda,1506101,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",6.068064278305434
+17.5516,77.9478,MakthaTanda,1506102,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",6.62999677073973
+17.4563,77.8926,Velchal - II,1506103,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",6.819634310045154
+17.5723,77.8232,NarsapoorTanda,1506104,1,7,Primary Health Centre,Patloor,Marpally,17.579466,77.79649599999999,"Primary Health Centre, Patloor, Marpally",2.9407448172942443
+17.6435,77.8161,Komshetpally - II,1506105,1,7,Primary Health Centre,Patloor,Marpally,17.579466,77.79649599999999,"Primary Health Centre, Patloor, Marpally",7.417200357016228
+17.4871,77.7202,Shapoor,1506106,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",5.262738342512626
+17.3931,77.7106,Madwapoor,1506107,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",3.8096078234124455
+17.3793,77.7761,Malshetpally,1506108,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",3.3140025898457024
+17.602999999999998,77.8498,Mallikarjunagiri,1506109,1,7,Primary Health Centre,Patloor,Marpally,17.579466,77.79649599999999,"Primary Health Centre, Patloor, Marpally",6.226559920269931
+17.5249,77.8427,Siripuram - III,1506110,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",5.762654444770935
+17.4774,77.7743,Ravulapally - II,1506111,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",6.9413854991815604
+17.5239,77.7412,Buchanpally - III -2,1506112,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",3.028187263142975
+17.461696,77.72642990000001,Kalkoda - II,1506113,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",3.025966042191336
+17.4753,77.7843,Kudgunta,1506114,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",7.395656590280095
+17.4051,77.7614,Rampoor - II,1506115,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",2.857321768931025
+17.4299,77.7541,Ennaram - II,1506116,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",5.106650578609153
+17.4633,77.8004,Barwad - III,1506117,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",9.240633760350462
+17.438,77.8086,Mothkpally - II,1506118,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",8.970617407917665
+17.4481,77.7284,Bantaram - III,1506119,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",2.3422584416796486
+17.4705,77.6524,Thurmamidi - IV,1506120,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",6.681693072308314
+17.4609,77.6356,Bopunaram - II,1506121,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",7.928966106758337
+17.3925,77.6874,Mangraspally,1506122,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",5.8350589528485175
+17.3931,77.7106,Salbathapoor - II,1506123,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",3.8096078234124455
+17.5493,77.9087,Mekavanampally-ll (Mini),1506124,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",3.763590250806891
+17.5227,77.8965,Kaslabad Tanda (Mini),1506125,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",0.5762127342969443
+17.5339,77.9325,Sudoduka Tanda (Mini),1506126,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",4.230335684429346
+17.4817,77.8237,Pallegutta Tanda (Mini),1506127,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",8.686379118184883
+17.5236,77.9416,Tekupally SC (Mini),1506128,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",4.830667574955609
+17.4587,78.0107,Balreddyguda (Mini),1506129,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",6.20028061511028
+17.5397,77.7722,Marpally Tanda (Mini),1506130,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",0.7818210632646685
+17.5663,77.7554,Kattepad Tanda (Mini),1506131,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",3.1785246483157006
+17.6215,77.8352,Rampur (Mini),1506132,1,7,Primary Health Centre,Patloor,Marpally,17.579466,77.79649599999999,"Primary Health Centre, Patloor, Marpally",6.218859942383778
+17.5031,77.7441,Gurramgattu Tanda (Mini),1506133,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",4.574616574483328
+17.5363,77.7208,Jajjigubbadi Tanda (Mini),1506134,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",4.681045224046767
+17.5055,77.7106,Damasthapur Tanda (Mini),1506135,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",6.863277310430861
+17.5405,77.7729,Kothpalur Sc (Mini),1506136,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",0.8665152784267137
+17.4251,77.6929,Nagaram Tanda (Mini),1506137,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",2.3789445280011536
+17.4268,77.8348,Nagusanpally Tanda (Mini),1506138,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",10.59452208418341
+17.4696,77.7995,Barwad Tanda (Mini),1506139,1,4,Community Health Centre,Marpally,Marpally,17.539171,77.764847,"Community Health Centre, Marpally, Marpally",8.56440453469125
+17.4776,77.75,Madgul Tanda (Mini),1506140,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",6.048471928659617
+17.1809,77.8777,Baharpet,1508001,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",0.4300245159564465
+17.1793,77.8807,Indira nagar,1508002,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",0.0750730029381559
+17.1733,77.8755,Premnagar,1508003,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",0.8405148623590253
+17.1733,77.8756,Boiwada,1508004,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",0.8331213582356563
+17.1744,77.8747,Munnurgeri,1508005,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",0.8255572605694012
+17.1733,77.8756,Telugugeri,1508006,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",0.8331213582356563
+17.1592,77.8733,Yerragaddapally,1508007,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",2.3191019157423822
+17.1688,77.865,Sulthannagar,1508008,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",2.028219889329581
+17.2039,77.8909,Mallemoniguda,1508009,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",2.9913485266445843
+17.1886,77.9151,Nayamathnagar,1508010,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",3.782682923945319
+17.1448,77.8707,Narayanapoor,1508011,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",3.926514819575446
+17.1761,77.8824,Sulthanpoor,1508012,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",0.32397655377796303
+17.2274,77.8727,Naskal - I,1508013,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",5.486599312165111
+17.2258,77.87100000000001,Naskal - II,1508014,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",5.344153134399533
+17.2301,77.8601,Bharkathpally,1508015,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",6.132241671097764
+17.18,77.8803,Rukkumpally,1508016,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",0.16375108872430308
+17.1968,77.8505,Chiguralpally,1508017,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",3.8168635096985777
+17.2101,77.8262,Lakhnapoor,1508018,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",6.790651973342637
+17.1667,77.8189,Govindapoor,1508019,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",6.734370094677668
+17.1442,77.8604,Mittakodur - I,1508020,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",4.4187138464089655
+17.2022,77.8116,Mittakodur - II,1508021,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",7.824656404117155
+17.1535,77.8224,Rangampally I,1508022,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",6.8305699046220765
+17.1533,77.8225,Rangampally II,1508023,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",6.8300532510947125
+17.1653,77.8045,BhojyanaikTanda,1508024,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",6.899482187233308
+17.1596,77.8293,SondepoorTanda,1508025,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",5.892240445060711
+17.1357,77.9514,Rapole - I,1508026,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",2.1838588281362012
+17.1289,77.9329,Rapole - II,1508027,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",3.790933668401735
+17.1255,77.9675,Chityal,1508028,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",0.13927848150254785
+17.1162,77.9785,Thondapally,1508029,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",1.4249142052585273
+17.1298,77.9799,Yabajiguda,1508030,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",1.369191765684383
+17.1299,77.9208,Khudavanpoor,1508031,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",5.080605640040614
+17.1291,77.9131,Jaffarpally,1508032,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",5.885475158655182
+17.0941,77.9576,Syedpally,1508033,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",3.5645400404582315
+17.1086,77.9426,Ravulapally,1508034,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",3.2505928892972435
+17.1881,77.9448,Madharam - I,1508035,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",6.8542741723170435
+17.137999999999998,77.9508,Madharam - II,1508036,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",2.3884959309680647
+17.1881,77.9448,Basireddypally,1508037,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",6.8542741723170435
+17.1991,77.9338,Rangapoor,1508038,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",6.04687868836967
+17.1638,77.9097,Kalapoor,1508039,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",3.4673399413104784
+17.1128,77.92399999999999,Raghavapoor,1508040,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",4.8812867503497115
+17.1812,77.8772,Syedmalkapoor,1508041,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",0.4926964896393679
+17.1935,77.9207,NazeerabadTanda,1508042,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",4.52372209257466
+17.1697,77.8412,Roopkhanpet - I,1508043,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",4.348456896742424
+17.1697,77.8412,Roopkhanpet - II,1508044,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",4.348456896742424
+17.1507,77.7459,Gadsingapoor,1508045,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",1.2768604083101711
+17.2032,77.7875,Ibrahimpoor,1508046,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",6.943162786010378
+17.2047,77.7727,RoopsinghTanda,1508047,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",6.0280669109505265
+17.1921,77.7866,MalkaipetTanda,1508048,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",6.088412131745791
+17.0865,77.8344,Doma - I,1508049,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",0.491068420440008
+17.0884,77.8361,Doma - II,1508050,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",0.22864705807487834
+17.0834,77.8327,Doma - III,1508051,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",0.880259519068243
+17.0846,77.8417,Udhanraopally,1508052,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",0.8473349872178216
+17.0571,77.873,Mothkur - I,1508053,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",4.605668699800822
+17.0607,77.851,Mothkur - II,1508054,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",3.643667817583939
+17.0607,77.851,Chenchucolony,1508055,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",3.643667817583939
+17.0693,77.8058,Inapoor - I,1508056,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",4.023621252593879
+17.0599,77.8189,Inapoor - II,1508057,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",3.87662714640211
+17.177126100000002,77.8803378,Mylaram,1508058,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",0.19032358433418337
+17.1089,77.8408,Thimmaipally,1508059,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",2.104945659473496
+17.1288,77.8243,Pothireddypally,1508060,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",4.462475993233
+17.0904,77.854,Ootpally,1508061,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",1.855308078695723
+17.1272,77.785,Bompally,1508062,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",6.073069655588048
+17.1187,77.7883,PeddaTanda -1,1508063,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",6.0151797852269295
+17.1177,77.8881,Baspally,1508064,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",6.263284094693789
+17.11344,77.9040682,Shivareddypally,1508065,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",6.932895154289091
+17.114,77.9032,Dongenkapally,1508066,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",7.0130808029012535
+17.1104,77.82600000000001,Rakonda,1508067,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",2.489086439992919
+17.114,77.9032,Gudur,1508068,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",7.0130808029012535
+17.175102499999998,77.8807786,Palepally,1508069,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",0.40137230926666206
+17.0685,77.8684,Dornalpally,1508070,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",4.171522027871408
+17.1152,77.8718,Godgonpally,1508071,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",4.651521906112598
+16.9947,77.7907,Dadapoor - I,1508072,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",9.355365307752201
+17.0186,77.7947,Dadapoor - Ii,1508073,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",8.637045406658128
+17.0188,77.7939,Kothapally,1508074,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",8.722876266936298
+17.0737,77.7914,Dirsampally - I,1508075,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",5.145606972683197
+17.089000000000002,77.7916,Dirsampally - II,1508076,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",4.779461891305883
+17.1042,77.7956,IlabadTanda,1508077,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",4.613748506624696
+17.134,77.7967,Kistapoor - I,1508078,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",6.435880513754963
+17.1356,77.7977,Kistapoor - II,1508079,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",6.502920136012986
+17.0187,77.7946,Gumdal,1508080,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",8.64808023094346
+16.9948,77.7906,GumdalTanda,1508081,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",9.362882132097706
+17.0395,77.7926,Mallepally,1508082,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",7.339547296146153
+17.0771,77.7719,Kondaipally,1508083,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",7.028557151777397
+17.1134,77.7917,Brhamanpally,1508084,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",5.408150998110625
+17.0771,77.855,PeddaTanda -2,1508085,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",2.4574765279856936
+17.1023,77.7717,Ganjipally,1508086,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",7.017340945182451
+17.1258,77.7786,Budlapoor,1508087,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",5.655508779025397
+17.0849,77.7735,Badempally,1508088,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",6.728690754735443
+17.0138,77.8749,Kulkacherla - I,1508089,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",0.24263159443517732
+17.0178,77.8694,Kulkacherla - II,1508090,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",0.7247189295379397
+17.0137,77.885,Chapalagudem,1508091,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",0.9969555487055652
+17.0135,77.8521,Bomreddypally,1508092,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",2.5408000969293494
+17.0295,77.8406,Bandavelikacherla - I,1508093,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",4.049559208071276
+17.0295,77.8406,Bandavelikacherla - II,1508094,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",4.049559208071276
+17.0565,77.9513,Adivivenkatapoor,1508095,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",7.772417063835915
+17.1348949,77.90386540000002,Thirumalapoor - I,1508096,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",5.442004487801799
+17.127801,77.8894248,Thirumalapoor - II,1508097,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",5.729968007909953
+16.9944,77.9359,Ippaipally,1508098,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",6.810458177240874
+16.9843,77.8861,DhansinghTanda,1508099,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",3.664433190331099
+16.9444,77.9105,Ananthasagar,1508100,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",8.748717557174638
+16.995,77.8274,Salveed - I,1508101,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",5.648572332628344
+16.9948,77.8274,Salveed - II,1508102,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",5.65770478536616
+16.9731,77.8528,DeeplanaikTanda,1508103,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",5.341928638259348
+17.0044,77.8159,Chellapoor,1508104,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",6.501585731636499
+16.9764,77.862,Antharam - I,1508105,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",4.6199594768116565
+16.9715,77.8674,Antharam - II,1508106,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",5.004651941575365
+16.9813,77.8849,CheruvumundaliTanda,1508107,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",3.9513272092126943
+16.9571,77.8682,Puttapahad,1508108,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",6.574885188429231
+16.9949,77.8486,Puttapahad SC,1508109,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",3.7147224162929695
+16.9966,77.8981,Mujahidpoor - I,1508110,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",3.1824869196476695
+17.0606,77.9107,Mujahidpoor - II,1508111,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",6.209094704232373
+17.0727,77.9053,Ramreddypally,1508112,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",7.060782332007747
+17.0867,77.925,Allapoor Tanda,1508113,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",6.229663878455909
+17.0361,77.8713,Kamanpally,1508114,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",2.3122044492271634
+17.0409,77.9275,Lingampally,1508115,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",6.158812853522801
+17.0484,77.9213,DasyanikTanda,1508116,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",6.04024681866629
+17.0478,77.9259,Vallynaik Tanda L,1508117,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",6.400608425568628
+17.0407,77.8747,Peerampally,1508118,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",2.774726179655243
+17.0238,77.82,Ramnagar,1508119,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",6.007868961392353
+17.0264,77.8244,BandavelikacherlaTanda,1508120,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",5.599444213954071
+16.9959,77.8398,Ghanapoor,1508121,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",4.427087657112839
+16.9989,77.9797,Chowdapoor - I,1508127,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",11.197932012870325
+16.9989,77.9797,Chowdapoor - II,1508128,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",11.197932012870325
+17.007,77.9752,Vittalapoor,1508129,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",10.605883958687139
+16.9866,77.9758,ErlabadTanda,1508130,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",11.109419615122972
+17.0716862,77.86763470000001,Kusumasamudram - I,1508131,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",3.905922028749437
+16.9949,77.9029,Kusumasamudram - II,1508132,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",3.6935895413725492
+16.9753,77.928,Kusumasamudram - III,1508133,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",7.139545777215725
+16.9695,77.9049,Kusumasamudram - IV,1508134,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",5.999824052137211
+17.1602491,77.8924245,Mandipal,1508141,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",2.3824333554803263
+16.9742,77.9736,Makthavenkatapoor,1508142,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",11.373475115349537
+17.0163533,77.8725613,Veerapoor,1508143,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",0.3584836104893298
+17.1762,77.7892,Heeryaniak  Tanda  (Mini),1508202,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",5.533869458240971
+17.1613471,77.80223829999998,Gangyanaiak  Tanda  (Mini),1508203,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",6.639713301916028
+17.1661,77.7828,Dadi Tanda  (Mini),1508204,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",4.61509580670946
+17.1728,77.824,Govinda poor Tanda  (Mini),1508205,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",6.094315106497154
+17.1633,77.8161,Jeedigadda  Tanda  (Mini),1508206,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",7.107763144192393
+17.1812,77.8594,Kistammagadi  Tanda  (Mini),1508207,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",2.314744558010454
+17.1613,77.8434,Suvali  Tanda   (Mini),1508208,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",4.441748002200399
+17.1633,77.8161,Salipallybata Tanda  (Mini),1508209,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",7.107763144192393
+17.2098,77.9259,Rangapoor  Tanda  (Mini),1508210,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",5.888269965819925
+17.189,77.7881,Mannyanaik Tanda  (Mini),1508211,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",6.031771631321611
+17.1441,77.8604,Ramreddy Pally  (Mini),1508212,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",4.428372379390167
+17.1319,77.8474,Oot pally Tanda  (Mini),1508213,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",4.755328044862686
+17.1035,77.7702,GanjiPally  (Mini),1508214,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",7.122740274613301
+17.1722669,77.878067,Baddyanaik  Tanda  (Mini),1508215,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",0.7820163918222192
+17.0884,77.7657,Badem Pally Tanda  (Mini),1508216,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",7.533004211167382
+17.0755,77.8717,Jangirsab Tanda  (Mini),1508217,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",4.088072430563066
+17.1424,77.788,Pinjaram pallugu Tanda  (Mini),1508218,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",5.5102183756543095
+17.0133,77.8004,Dadapoor Tanda  (Mini),1508219,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",8.030075287891933
+17.1272,77.785,Budlapoo Tanda  (Mini),1508220,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",6.073069655588048
+17.0043,77.8159,Hanmyanaik Tanda  (Mini),1508221,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",6.503759146117747
+17.1187,77.7882,Peerla Gutta Tanda (Mini),1508222,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",6.024241157168746
+16.9929,77.8326,Gopyanaik Tanda  (Mini),1508223,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",5.257857731667674
+17.0264,77.842,Bhojanaik Tanda CC (Mini),1508224,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",3.79092181509069
+17.0108,77.9195,Lalsingh Tanda  (Mini),1508225,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",4.671152285987834
+17.0073,77.9022,Bandameedi Tanda  (Mini),1508226,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",2.9531370474312286
+17.176828600000004,77.8810324,GandicheruvuTandaThirumala poor  (Mini),1508227,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",0.2085349697581646
+17.0615,77.9033,Pothigadda Tanda  (Mini),1508228,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",5.861255053607121
+17.0213,77.8165,Suryanaik Tanda  (Mini),1508229,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",6.3432114529759644
+17.0616,77.9033,Manchikunta Tanda  (Mini),1508230,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",5.870903651801568
+17.0431,77.8963,Patelcheruvu  Tanda  (Mini),1508231,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",3.7347960680744468
+17.033,77.9294,Chakalipally Tanda (Mini),1508233,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",6.00443916568866
+17.0373,77.9308,Valyanaik Tanda  (Mini),1508234,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",6.311048707927758
+17.0308,77.9316,Laxmammagadda Tanda (Mini),1508235,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",6.155743279977118
+17.0204,77.9431,Sakriyanaik  Tanda  (Mini),1508236,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",7.166001530766671
+17.0228,77.928,Balram Tanda  (Mini),1508237,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",5.596771997393955
+16.9944,77.9371,GandicheruvuTanda  (Rampur)  (Mini),1508238,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",6.930181051459612
+16.9736,77.9267,Gattannapally Tanda (Mini),1508239,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",7.155219338702144
+16.8811,77.9798,Nagammagadda Tanda  (Mini),1508240,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",18.61264478486457
+17.0199,77.9361,Bhajyanaik Tanda  (Mini),1508241,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",6.4196576161589425
+17.0154867,77.9287075,GogyanaikTanda(Ad. V. Poor)  (Mini),1508242,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",5.617364071172493
+16.9928,77.8321,Gondiyanaik Tanda (Mini),1508243,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",5.309794869777063
+16.9879,77.8696,Tekul Tanda  (Mini),1508244,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",3.17026350002691
+16.9731,77.8528,Chinthalkunta Tanda  (Mini),1508245,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",5.341928638259348
+17.0163,77.9299,Yerralachya Tanda  (Mini),1508246,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",5.744357964130886
+16.9551,77.8967,Chinnaramaiah Tanda  (Mini),1508249,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",7.100499685243316
+17.0123,77.8272,ErragovindTanda  (Mini),1508250,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",5.190170559943347
+17.0527,77.882,BhojyaikTanda KP (Mini),1508251,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",4.157512056206807
+16.9967,77.9443,Gubbali Tanda  (Mini),1508252,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",7.578316480060684
+17.0141,77.9527,Haryanaik Tanda  (Mini),1508253,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",8.170478979215927
+16.9775,77.9147,Allugadda Tanda  (Mini),1508254,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",5.929018183184931
+17.0465,77.92399999999999,Ramsingh Tanda  (Mini),1508255,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",6.152349888776435
+17.1635,77.8511,SulthanpoorTanda  (Mini),1508269,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",3.6014091479057884
+17.0526,77.882,BotyanaikTanda  (Mini),1508270,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",4.146530087297298
+17.1451,77.8715,Laxmidevipally,1508272,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",3.8713994094913105
+17.1638,77.9536,Polkampally,1508273,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",4.640882222275577
+17.137999999999998,77.9508,Narsaiahguda,1508274,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",2.3884959309680647
+17.1724,77.9036,NazeerabadpeddaTanda,1508275,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",2.4979083749741577
+17.0631,77.8682,HeerapoorTanda (Mini),1508276,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",4.532655677235428
+17.1696,77.9092,KalapoorTanda (Mini),1508277,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",3.1590721085157583
+17.1993,77.9155,Maisammagadda Tanda (Mini),1508278,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",4.318718020969173
+17.0774,77.8548,Kammanacharam,1508279,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",2.420452919837215
+17.053,77.7917,Batlachandram,1508280,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",6.326718358167804
+17.0572,77.8728,KeshilammaTanda (Mini),1508281,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",4.618221391452529
+17.174902300000003,77.880557,MangalonichalkaTanda (Mini),1508282,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",0.4257309467899454
+17.114,77.9032,RathannaikTanda (Mini),1508283,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",7.0130808029012535
+17.114,77.9032,BantlakuntaTanda (Mini),1508284,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",7.0130808029012535
+17.153435100000003,77.79151379999999,Ananthareddypally (Mini),1508285,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",5.556690331430625
+17.1447,77.7889,SammaiahgaddaTanda (Mini),1508286,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",5.5121723768583335
+17.0265,77.788,MallepallyTanda (Mini),1508287,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",8.782624644867106
+17.115,77.7801,CherlaTanda (Mini),1508288,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",6.592420818084924
+17.1042,77.7956,MettugaddaTanda (Mini),1508289,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",4.613748506624696
+17.175154100000004,77.8807953,UshennaikTanda (Mini),1508290,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",0.3955310055223584
+17.1683695,77.87983670000001,Yellareddypally (Mini),1508291,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",1.1561389018446409
+17.014,77.8731,Kulkacherla - III,1508292,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",0.35500381026971745
+16.9813,77.8849,Bindemgadda Tanda (Mini),1508295,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",3.9513272092126943
+17.1637177,77.88601390000001,Bureddypally (Mini),1508297,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",1.748432904984703
+17.0157,77.94,RajivnagarTanda (Mini),1508298,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",6.817977212899199
+16.9764,77.862,YethukalvaTanda (Mini),1508299,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",4.6199594768116565
+16.996,77.8398,SubyanaikTanda (Mini),1508300,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",4.4215473461776655
+17.0633191,77.8672774,Hanmaipally (Mini),1508304,1,14,Primary Health Centre,Doma,Dome,17.090412,77.83654399999999,"Primary Health Centre, Doma, Dome",4.443787381983171
+16.9952,77.8101,HeryanaikTanda (Mini),1508305,1,13,Primary Health Centre,Kulkacherla,Kulkacherla,17.015771700000002,77.8758775,"Primary Health Centre, Kulkacherla, Kulkacherla",7.358880542906311
+17.3642,77.4615,SANGAM KALAN I,1510001,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",8.994847162608476
+17.3979,77.4632,SANGAM KALAN II,1510002,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",10.32347986317988
+17.3488,77.5448,SANKIREDDY PALLY,1510003,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",0.2667018373179021
+17.3489,77.5965,S R PALLY TANDA,1510004,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",5.558475395491244
+17.3428,77.5077,INALLI,1510005,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",3.8945839724545626
+17.349,77.5449,GINGURTHI I,1510006,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",0.29089151539676167
+17.346,77.5438,GINGURTHI II,1510007,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",0.06699624143476579
+17.3458,77.5004,MALKAPUR I,1510008,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",4.648487009985496
+17.3458,77.5004,MALKAPUR II,1510009,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",4.648487009985496
+17.3441,77.499,MALKAPUR III,1510010,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",4.803752303718346
+17.2535966,77.59056329999999,KOTLAPUR-2,1510011,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.5087571003559889
+17.3431,77.5127,KOTABASPALLY I,1510012,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",3.363390492992271
+17.3429,77.5123,KOTABASPALLY II,1510013,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",3.408107174083325
+17.2871,77.5072,UDANDAPUR,1510014,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",7.681513460246706
+17.2871,77.5072,G M TANDA,1510015,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",7.681513460246706
+17.3547,77.5499,MAISAMA TANDA,1510016,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",1.0972726332751888
+17.2579,77.5597,CHENGASPUR,1510017,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",2.8101694151509853
+17.2571,77.5578,KONAPUR,1510018,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",3.002175925183715
+17.2627,77.5372,Elmakanya,1510019,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",5.251457188876819
+17.3104,77.4915,GUNTABAS PALLY,1510020,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",6.882689994175338
+17.2961,77.4771,KARANKOTE I,1510021,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",9.060606838321213
+17.3007,77.4735,KARANKOTE II,1510022,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",9.067196496182714
+17.3016,77.4721,KARANKOTE III,1510023,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",9.135506898996814
+17.3007,77.4735,KARANKOTE IV,1510024,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",9.067196496182714
+17.3002,77.47800000000001,KARANKOTE V,1510025,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",8.70875870667348
+17.2602,77.5821,GOWTHAPUR I,1510026,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.7163616949272577
+17.28,77.5691,GOWTHAPUR II,1510027,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",3.3141741885356306
+17.2952,77.571,CHANGOLE I,1510028,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",4.751931510296881
+17.2953,77.571,CHANGOLE II,1510029,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",4.762410893057137
+17.3099,77.5728,C M PATNAM,1510030,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",5.075474311673858
+17.3211,77.57300000000001,PARVATHAPUR,1510031,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",4.16064419494136
+17.2985,77.5153,BELKATUR I,1510032,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",6.153108975791944
+17.284000000000002,77.5661,CHITTIGANAPUR,1510033,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",3.8606586270775547
+17.273,77.4897,CHANDRAVANCHA,1510034,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",9.133643511872506
+17.3243,77.5452,ALLAHAPUR I,1510035,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",2.4678501462541953
+17.3023068,77.4714519,OGIPUR,1510036,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",9.150781145588684
+17.2878,77.5502,VEERAREDDYPALLY,1510037,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",5.271878860631258
+17.2729,77.5793,SIRGIRIPET I,1510038,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",2.1203471842855564
+17.2878,77.5502,RAMPUR,1510039,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",5.271878860631258
+17.3084,77.5363,RAMPUR TANDA,1510040,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",4.315592144285422
+17.312,77.5433,MITTABASPALLY,1510041,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",3.834389290702546
+17.257986600000002,77.6333478,KHANJAPUR,1510042,1,6,PP Unit,Tandur,Tandur,17.265904000000003,77.619613,"PP Unit, Tandur, Tandur",1.7035659233387395
+17.2756,77.6003,ANTHARAM I,1510043,1,6,PP Unit,Tandur,Tandur,17.265904000000003,77.619613,"PP Unit, Tandur, Tandur",2.3168285920577385
+17.2756,77.6004,ANTHARAM II,1510044,1,6,PP Unit,Tandur,Tandur,17.265904000000003,77.619613,"PP Unit, Tandur, Tandur",2.3074355045042743
+17.2666375,77.59113409999999,DASTHAGIRIPET,1510045,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",1.4121695643438883
+17.2882,77.5903,ANTHARAM TANDA,1510046,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",3.727780423755355
+17.2388,77.5333,NARAYANAPUR,1510047,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",5.874874420800701
+17.227,77.545,GONUR,1510048,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",5.346545185491374
+17.2325,77.5474,VERSATTIPALLY,1510049,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",4.796547689292141
+17.2521,77.6567,BEGWAR,1510050,1,6,PP Unit,Tandur,Tandur,17.265904000000003,77.619613,"PP Unit, Tandur, Tandur",4.226754674678268
+17.3369,77.6652,PEDDEMUL I,1510051,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",0.689285883797517
+17.3419,77.6715,PEDDEMUL II,1510052,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",1.490487264215099
+17.3457,77.6403,PEDDEMUL TANDA,1510053,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",2.217681902525546
+17.3314,77.6527,BUDDARAM,1510054,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",0.8419655018502504
+17.381425600000004,77.64484250000001,GOPALPUR,1510055,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",5.228420305555423
+17.3523,77.6565,THIMSANPALLY,1510056,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",1.7933569839739696
+17.3639,77.6326,RUDRAM,1510057,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",4.135658701470391
+17.3521,77.6706,NARSAPUR,1510058,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",2.1603607453850104
+17.3844,77.6466,NAGULAPALLY I,1510059,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",5.499872774463893
+17.3025,77.6813,MAREPALLY,1510060,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",4.458086905538544
+17.3845,77.7361,ANNASAGER-1,1510061,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",0.9809386769207646
+17.3856,77.7425,KOTPALLY I,1510062,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",0.3268616344633045
+17.3828,77.7435,KOTPALLY II,1510063,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",0.26984089268404804
+17.3864,77.7428,BUGGAPUR,1510064,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",0.3447968054321308
+17.3748,77.6899,INDOL,1510065,1,17,Primary Health Centre,Nagasamander,Dharur,17.352184,77.72369599999999,"Primary Health Centre, Nagasamander, Dharur",4.380471954629687
+17.3725,77.697,OGLAPUR,1510066,1,17,Primary Health Centre,Nagasamander,Dharur,17.352184,77.72369599999999,"Primary Health Centre, Nagasamander, Dharur",3.6235762925386052
+17.3275,77.6487,GAJIPUR I,1510067,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",1.4474535725868212
+17.2964,77.666,MUMBAPUR I,1510068,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",4.504705355158967
+17.2942,77.6681,MUMBAPUR II,1510069,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",4.787189561970277
+17.2837,77.638,KANDANELLI I,1510070,1,6,PP Unit,Tandur,Tandur,17.265904000000003,77.619613,"PP Unit, Tandur, Tandur",2.7797988257524464
+17.2837,77.638,RUKMAPUR,1510071,1,6,PP Unit,Tandur,Tandur,17.265904000000003,77.619613,"PP Unit, Tandur, Tandur",2.7797988257524464
+17.2589,77.6564,REGONDI,1510072,1,6,PP Unit,Tandur,Tandur,17.265904000000003,77.619613,"PP Unit, Tandur, Tandur",3.9831535405227014
+17.2959,77.6713,CHAITANYA NAGAR,1510073,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",4.6875685263426705
+17.2508191,77.740022,KONDAPUR,1510074,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",6.973538312339753
+17.3109,77.6963,DUGAPUR,1510075,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",4.887333372502158
+17.2956,77.7109,MANSANPALLY,1510076,1,17,Primary Health Centre,Nagasamander,Dharur,17.352184,77.72369599999999,"Primary Health Centre, Nagasamander, Dharur",6.436801685851349
+17.2966,77.6459,MADDANATHAPUR,1510077,1,6,PP Unit,Tandur,Tandur,17.265904000000003,77.619613,"PP Unit, Tandur, Tandur",4.4090886756307235
+17.3146,77.7133,MAREPALLY TANDA,1510078,1,17,Primary Health Centre,Nagasamander,Dharur,17.352184,77.72369599999999,"Primary Health Centre, Nagasamander, Dharur",4.322380998589841
+17.2837,77.638,KANDANELLY TANDA,1510079,1,6,PP Unit,Tandur,Tandur,17.265904000000003,77.619613,"PP Unit, Tandur, Tandur",2.7797988257524464
+17.336,77.6688,JANAGAM I,1510080,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",1.0688841170951804
+17.3406,77.6724,JANAGAM II,1510081,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",1.52671607216681
+17.2889711,77.64090470000001,KHANNAPUR,1510082,1,6,PP Unit,Tandur,Tandur,17.265904000000003,77.619613,"PP Unit, Tandur, Tandur",3.419021647527059
+17.2592,77.587,GOTLAPALLY,1510083,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.48699290026286496
+17.3434,77.6383,INDUR I,1510084,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",2.3077140893056516
+17.3493,77.5957,INDUR II,1510085,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",5.476034639139364
+17.3406,77.6724,JAYARAM TAND -1- T,1510086,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",1.52671607216681
+17.3214,77.6315,GIRMAPUR,1510087,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",3.3328208648205666
+17.4093,77.6856,ATHKUR I,1510088,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",4.253513679881944
+17.3571,77.6627,ATHKUR TANDA,1510089,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",2.3493267287992734
+17.4416104,77.6443728,BANDAMIDIPALLY -1,1510090,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",6.695028883971805
+17.4384,77.6104,THATTIPALLY I,1510091,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",10.304209321953863
+17.4384,77.6104,THATTIPALLY II,1510092,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",10.304209321953863
+17.3442,77.6652,SIDANAMADUGU TANDA,1510093,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",1.113475968026899
+17.4539,77.58,OMLANAIK TANDA,1510094,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",12.53506340396901
+17.4507503,77.5922085,JAYARAM TANDA -2 - R,1510095,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",12.272958798355214
+17.4356,77.6111,RACHAKATA TANDA,1510096,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",10.244784152387352
+17.4373,77.5692,PASHAPUR,1510097,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",10.442330463039944
+17.4373,77.5692,ADIKICHILA,1510098,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",10.442330463039944
+17.421,77.5356,BAIMEDI TANDA,1510099,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",8.337017785581263
+17.4157,77.5502,URINTI TANDA,1510100,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",7.7240572935007314
+17.2131,77.6427,YALAL I,1510101,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",0.09361928434150558
+17.2096,77.6412,YALAL II,1510102,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",0.4759275443365887
+17.2404,77.6557,VISWANATHPUR,1510103,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",3.2841409062182683
+17.1905,77.6636,GOREPALLY,1510104,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",3.303895417861276
+17.192,77.6809,Devenaoor I,1510105,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",4.614798760876536
+17.2112603,77.62837459999999,DUBALA TANDA,1510106,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",1.6288576162399941
+17.1945,77.6867,DEVLA TANDA,1510107,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",5.032496768575095
+17.1938,77.6341,KISTAPUR,1510108,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",2.383441794871557
+17.1938,77.6342,HAGIPUR,1510109,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",2.37897815055488
+17.2219,77.6555,SAMGAM KURDU I,1510110,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",1.5919777701500772
+17.2898182,77.56140450000001,DAVLAPUR,1510111,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",4.675361910498322
+17.1819,77.5926,GIRIJAPUR,1510112,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",6.438347343292613
+17.1665,77.5621,BANDAMIDIPALLY -2,1510113,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",9.128612219112801
+17.2544,77.5818,THIMAIPALLY,1510114,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.4478038348142422
+17.2548,77.5821,RENDLAGADDA TANDA,1510115,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.41230475721915977
+17.1665,77.5621,JUNTIPALLY I,1510116,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",9.128612219112801
+17.1665,77.5621,JUNTIPALLY II,1510117,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",9.128612219112801
+17.2016,77.5556,PAGIDIPALLY,1510118,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",6.750994801011052
+17.2416,77.6003,KOKAT I,1510119,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",2.12354487907978
+17.2504,77.6299,KOKAT II,1510120,1,6,PP Unit,Tandur,Tandur,17.265904000000003,77.619613,"PP Unit, Tandur, Tandur",2.040910598376501
+17.2709,77.6122,BASHERMIYA TANDA,1510121,1,6,PP Unit,Tandur,Tandur,17.265904000000003,77.619613,"PP Unit, Tandur, Tandur",0.9634270382313388
+17.2404,77.6557,RAGAVAPUR,1510122,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",3.2841409062182683
+17.233,77.6763,KAMALPUR,1510123,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",4.112821720023518
+17.2649,77.6784,ADALPUR,1510124,1,6,PP Unit,Tandur,Tandur,17.265904000000003,77.619613,"PP Unit, Tandur, Tandur",6.243266695989187
+17.2551,77.6984,BANAPUR,1510125,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",7.455288466023687
+17.2463,77.7352,RASNAM I,1510126,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",7.674361212530152
+17.2454,77.7361,RASNAM II,1510127,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",7.705607087367324
+17.2793,77.7156,SANGAIPALLY TANDA,1510128,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",6.901302231990146
+17.226344100000002,77.7139094,PAGIDYAL I,1510129,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",7.611687591538298
+17.2124,77.7185,PAGIDYAL II,1510130,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",6.190037878184208
+17.2124,77.7185,BAGAIPALLY,1510131,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",6.190037878184208
+17.1567,77.775,MUDAIPET I,1510132,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",3.769848627403277
+17.2037175,77.682423,MUDAIPET II,1510133,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",4.2602622574367945
+17.1421,77.7078,SAGAIGUTTA TANDA,1510134,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",3.967224529221313
+17.2012,77.7489,ACHUTHAPUR,1510135,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",4.621801084317297
+17.2499,77.5918,LN PUR,1510136,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.8335220390073027
+17.2548,77.5821,AGANUR I,1510137,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.41230475721915977
+17.218,77.5922,AGANUR II,1510138,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",4.159214877385209
+17.1993,77.6128,BENUR I,1510139,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",3.6169561615908754
+17.1993,77.6127,JAKEPALLY,1510140,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",3.6265572577249117
+17.2548,77.5821,MUKUNDAPUR,1510141,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.41230475721915977
+17.1819,77.5926,MUKUNDAPUR TANDA,1510142,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",6.438347343292613
+17.1388292,77.6068912,CHENARAM,1510143,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",3.7261687045506218
+17.1905,77.55199999999999,YANKEPALLY,1510144,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",8.02197183482314
+17.195639800000002,77.5463576,PERKAMPALLY,1510145,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",7.821369301443464
+17.251509,77.5929248,Perkampally Tanda,1510146,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.8297774458176324
+17.1744,77.5765,Akkampally 1,1510147,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",8.330940823798812
+17.2106,77.686,NAGASAMUNDAR I,1510148,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",4.516154284855842
+17.2536387,77.5912855,NAGASAMUNDAR II,1510149,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.581374179383883
+17.2294,77.6987,ANNASAGER-2,1510150,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",6.125075036260313
+17.2156,77.4275,BASHEERABAD I,1510151,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",0.6358010500804018
+17.2139,77.4228,BASHEERABAD II,1510152,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",0.7033455161049003
+17.2192,77.4235,BASHEERABAD III,1510153,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",0.11179368477328734
+17.2199,77.4291,BASHEERABAD IV,1510154,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",0.5566687108147902
+17.173,77.3919,MANTHANGOUD,1510155,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",6.245663747303269
+17.1459,77.4099,MAILWAR I,1510156,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",8.387682950871712
+17.1461,77.4091,MAILWAR II,1510157,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",8.381283366839302
+17.1473,77.3988,KAMSANPALLY -1,1510158,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",8.526208428305514
+17.173,77.3887,EKMAY I,1510159,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",6.436785176289746
+17.1706,77.393,EKAMY II,1510160,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",6.410749466194225
+17.2283,77.415,NAVANGI,1510161,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",1.30735201320564
+17.223,77.3972,INDERCHED,1510162,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",2.8498443096705293
+17.2871,77.5072,JEEVANGI I,1510163,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",7.681513460246706
+17.2237,77.4572,JEEVANGI II,1510164,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",3.562518260953258
+17.2644,77.4851,JEEVANGI III,1510165,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",8.155186488450227
+17.2344,77.4286,GANGWAR,1510166,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",1.6631569933065955
+17.252,77.4339,KADGIRA I,1510167,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",3.699179931928501
+17.1568,77.4296,KOTLAPUR-1,1510168,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",7.0697185026470475
+17.3687951,77.44420129999999,VALYANAIK TANDA,1510169,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",10.898442056660581
+17.1809,77.4323,NADANAIK TANDA,1510170,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",4.454658595496292
+17.2077,77.5165,KASIMPUR,1510171,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",9.057138666738965
+17.1889,77.5134,BADLAPUR TANDA,1510172,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",10.125025127970055
+17.2093,77.499,GOTIGA KURDU,1510173,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",8.070927625609807
+17.187,77.4962,GOTIGA KALAN,1510174,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",8.521545845515112
+17.2055,77.4752,NAVALGA I,1510175,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",5.690452621095706
+17.2004,77.4805,BOGYANAIK TANDA,1510176,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",6.403619194704198
+17.133,77.4721,NEELAPALLY,1510177,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",8.609560999412723
+17.133,77.4721,JALALPOOR,1510178,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",8.609560999412723
+17.1598,77.4577,PARVATHPALLY,1510179,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",7.61185295402885
+17.1554,77.4658,MARPALLY,1510180,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",8.465899478415471
+17.1230699,77.4585446,EASMILPUR,1510181,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",9.257556527590424
+17.213,77.4567,MASANPALLY,1510182,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",3.5767928786286722
+17.2215,77.4443,KORVICHED,1510183,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",2.175643279377271
+17.2182,77.453,KORVICHED GANI,1510184,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",3.101993447832223
+17.2257,77.499,KAMSANPALLY -2,1510185,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",8.003896339397116
+17.2504,77.5635,MANTHATI I,1510186,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",2.4397883318188063
+17.2271,77.5122,REDDYGANAPUR I,1510187,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",8.424318269813938
+17.1835,77.436,DAMARCHED I,1510188,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",4.273544194540451
+17.1885,77.4328,JAMLANAIK TANDA,1510189,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",3.6442927362173023
+17.2535,77.5900328,ALLAHPUR,1510190,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.4587758422743788
+17.1948,77.4618,BABUNAIK TANDA,1510191,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",4.917015702052116
+17.2097,77.445,PARSANAIK TANDA,1510192,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",2.52737740399387
+17.2016,77.5556,KOPANKOT TANDA,1510193,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",6.750994801011052
+17.2109,77.5176,MALKANGIRI,1510194,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",8.758401836482872
+17.352999999999998,77.5513,GINGURTHY TANDA,1510195,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",1.0469196362880921
+17.2985,77.5153,BELKATUR II,1510196,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",6.153108975791944
+17.2729,77.5793,SIRIGIPET II,1510197,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",2.1203471842855564
+17.3236,77.6475,GAJIPUR II,1510198,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",1.8495418778531225
+17.4384,77.6104,THATTIPALLY TANDA,1510199,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",10.304209321953863
+17.277,77.635,KANDANELLI II,1510200,1,6,PP Unit,Tandur,Tandur,17.265904000000003,77.619613,"PP Unit, Tandur, Tandur",2.0473484142357306
+17.3437,77.6119,HANMAPUR,1510201,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",5.03854678494043
+17.1343,77.4172,MAILWAR TANDA,1510202,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",9.571531408137016
+17.2168,77.4258,BASHEERABAD V,1510203,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",0.4247556615510706
+17.333,77.6554,Bandapally,1510204,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",0.5109726441346938
+17.1904,77.465,HANKYANAIK TANDA,1510205,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",5.479873445217863
+17.2491,77.5802,MANIK NAGAR,1510206,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.8927641588516784
+17.248,77.5795,OPP HARIJAN WADA,1510207,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",1.0331303209393237
+17.2499,77.5792,HARIJAN WADA,1510208,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.9117278402198624
+17.2534,77.5765,SETARAMPET,1510209,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",1.0209962854192134
+17.2649,77.5875,BEGGER COLONY,1510210,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",1.120296873311947
+17.2706,77.60300000000001,NTR NAGAR,1510211,1,6,PP Unit,Tandur,Tandur,17.265904000000003,77.619613,"PP Unit, Tandur, Tandur",1.839677976860473
+17.2688,77.5982,INDERA NAGAR,1510212,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",2.0155123048368075
+17.256,77.5954,SWEEPER COLONY,1510213,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",1.007331197938231
+17.2711,77.5768,Malreddypally I,1510214,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",2.0452759127671176
+17.2657,77.5886,Malreddypally II,1510215,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",1.2294535580717763
+17.2683,77.5862,Malreddypally III,1510216,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",1.4868592012848278
+17.2683,77.5981,Gundupeerlu I,1510217,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",1.9663286419548471
+17.2688,77.5982,Gundupeerlu II,1510218,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",2.0155123048368075
+17.2614,77.5897,Hamalibasthi I,1510219,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.8207303578759023
+17.2642,77.59,Hamalibasthi II,1510220,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",1.1156596350474572
+17.2631,77.5912,Hamalibasthi III,1510221,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",1.0641992049966456
+17.2632,77.5832,Gareebnagar I,1510222,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.9658130231033933
+17.2522,77.5841,Gareebnagar II,1510223,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.3633437804937902
+17.2592,77.5859,Saipur I,1510224,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.4748788990417089
+17.2592,77.5983,Saipur II,1510225,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",1.391717590643717
+17.2547,77.5842,Saipur III,1510226,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.1907731659791647
+17.2525,77.5859,Kummargally I,1510227,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.27033818934168125
+17.2518,77.5905,Kummargally II,1510228,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.5928635788149835
+17.247,77.5803,Momingally I,1510229,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",1.0683572726761354
+17.248,77.5795,Momingally II,1510230,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",1.0331303209393237
+17.2493,77.5786,Momingally III,1510231,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",1.0030668016112627
+17.2471,77.5801,Gadi I,1510232,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",1.0714357073002998
+17.2353,77.5814,Gadi  II,1510233,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",2.2362961789837326
+17.2533,77.5765,Gandhinagar,1510234,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",1.0229081516539837
+17.2547,77.5876,Shamshirgunj,1510235,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.17388792796063976
+17.2565,77.5824,Veddergally I,1510236,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.4183575246840844
+17.2565,77.5824,Veddergally II,1510237,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.4183575246840844
+17.2571,77.5858,Dobigally I,1510238,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.2420513959853551
+17.2493,77.5786,Dobigally II (Old TDR),1510239,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",1.0030668016112627
+17.247,77.5803,Kasabgally,1510240,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",1.0683572726761354
+17.2553,77.5844,Putangalli,1510241,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.17278248765960205
+17.256,77.5789,Gumasthanagar,1510242,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.7612143929200426
+17.2649,77.6101,Rajivgruphakalpa,1510243,1,6,PP Unit,Tandur,Tandur,17.265904000000003,77.619613,"PP Unit, Tandur, Tandur",1.0162836691520856
+17.3243,77.5452,ALLAPUR II,1510244,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",2.4678501462541953
+17.3441,77.499,MALKAPUR IV,1510245,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",4.803752303718346
+17.3494,77.5448,GINGURTHI III,1510246,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",0.33182391806553213
+17.3001,77.4781,KARANKOTE VI,1510247,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",8.70677893154017
+17.2972,77.6471,Kandnelly III,1510248,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",4.521226187014698
+17.3828,77.7435,Kotapally III,1510249,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",0.26984089268404804
+17.333,77.6554,Peddemul III,1510250,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",0.5109726441346938
+17.3406,77.6724,JANAGAM-III,1510251,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",1.52671607216681
+17.3843,77.6466,NAGULAPALLY II,1510252,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",5.489063151714293
+17.3946,77.7548,Lingampalli,1510253,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",1.5084272729135504
+17.214000000000002,77.64399999999999,Yalal III,1510254,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",0.09680891155844087
+17.2196,77.6446,Govindraopet,1510255,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",0.7164713795704469
+17.2104,77.608,BENUR II,1510256,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",3.791233877964423
+17.2162,77.6267,SANGAM KURDU II,1510257,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",1.8220140634682755
+17.1728488,77.5764494,Akkampally 2,1510258,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",8.426205120487388
+17.1917,77.6813,Devenaoor II,1510259,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",4.6683797386303745
+17.1665,77.5621,JUNTUPALLY III,1510260,1,3,Community Health Centre,Kodangal,Kodangal,17.109586,77.624014,"Community Health Centre, Kodangal, Kodangal",9.128612219112801
+17.1836,77.4358,DAMARCHED II,1510261,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",4.256568302907843
+17.254116699999997,77.5911814,EKMAY III,1510262,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",0.5596637204819794
+17.2056,77.4754,NAVALGA II,1510263,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",5.7076488523274795
+17.2292,77.4976,MANTHATI II,1510264,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",7.895732484396344
+17.2527,77.4364,KADGIRA II,1510265,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",3.8571793257131755
+17.2271,77.5121,REDDYGANAPUR II,1510266,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",8.434196574227302
+17.1929,77.5095,Badlapur,1510267,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",9.587176087220334
+17.3019,77.5345,Rampur Tanda (Mini),1510268,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",5.0619225335060625
+17.2781,77.6473,Malreddypalli (Mini),1510269,1,6,PP Unit,Tandur,Tandur,17.265904000000003,77.619613,"PP Unit, Tandur, Tandur",3.2375406152642277
+17.2878,77.5502,Gopanpalli (Mini),1510270,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",5.271878860631258
+17.2803,77.6945,Nelligadda Tanda (Mini),1510271,1,20,Primary Health Centre,Peddemul,Peddemul,17.336313699999998,77.65873520000001,"Primary Health Centre, Peddemul, Peddemul",7.294450810822255
+17.3146,77.7133,Erragadda Tanda (Mini),1510272,1,17,Primary Health Centre,Nagasamander,Dharur,17.352184,77.72369599999999,"Primary Health Centre, Nagasamander, Dharur",4.322380998589841
+17.1939,77.5191,Kasimpur Tanda (Mini),1510273,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",9.823885146429522
+17.2529,77.7284,Ganga Sagar (Mini),1510274,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",7.533456001548245
+17.2101772,77.7106896,Tuperlagadda Tanda (Mini),1510275,1,23,Primary Health Centre,Bomraspet,Bomraspet,17.160565,77.739749,"Primary Health Centre, Bomraspet, Bomraspet",6.321604655215288
+17.337223899999998,77.59399920000001,Ushanaik Tanda (Mini),1510276,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",5.385768400483705
+17.3417,77.5904,Dharunivagu Tanda (Mini),1510277,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",4.933213070080442
+17.3489,77.5965,Ontimamidi Tanda (Mini),1510278,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",5.558475395491244
+17.4369,77.5692,Ramsingh Tanda (Mini),1510279,1,27,Primary Health Centre,Gingurthy,Tandur,17.346473,77.544191,"Primary Health Centre, Gingurthy, Tandur",10.399319618788214
+17.2104,77.608,Ambeerpet (Mini),1510280,1,19,Primary Health Centre,Yalal,Yalal,17.213232100000003,77.6435705,"Primary Health Centre, Yalal, Yalal",3.791233877964423
+17.2588,77.615,Bamlanaik Tanda (Mini),1510281,1,6,PP Unit,Tandur,Tandur,17.265904000000003,77.619613,"PP Unit, Tandur, Tandur",0.9294772457583919
+17.1267,77.4693,Neelapalli Tanda (Mini),1510282,1,22,Primary Health Centre,Angadi Raichur,Kodangal,17.086221,77.53665600000001,"Primary Health Centre, Angadi Raichur, Kodangal",8.455816164087606
+17.2097,77.4449,Thouriyanaik Tanda (Mini),1510283,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",2.5179482187046633
+17.1974,77.4082,Manthangoud (Mini),1510284,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",3.02719308825768
+17.2878,77.5502,Gowthapur Polish Unit (Mini),1510285,1,5,District Hospital,Tandur,Tandur,17.254929999999998,77.58598029999999,"District Hospital, Tandur, Tandur",5.271878860631258
+17.2181,77.4529,Korviched (Mini),1510286,1,24,Primary Health Centre,Basheerabad,Basheerabad,17.220143,77.423865,"Primary Health Centre, Basheerabad, Basheerabad",3.0921960658469905
+17.2632,77.6176,Indiramma Colony (Mini),1510287,1,6,PP Unit,Tandur,Tandur,17.265904000000003,77.619613,"PP Unit, Tandur, Tandur",0.3689069398194384
+17.352999999999998,77.9045,Alampally -I,1511001,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",1.9435478727218136
+17.3496,77.9058,Alampally -II,1511002,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",1.5498105275084801
+17.3394,77.9043,Gangaram -I,1511003,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",0.5281111223113231
+17.3314,77.9069,Gangaram -II,1511004,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",0.48841051174896893
+17.3384,77.8872,Ramaiahguda,1511005,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",2.173724069913359
+17.3422,77.8857,Ananthagiripally -I,1511006,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",2.4213893583282315
+17.3424,77.8837,Ananthagiripally -II,1511007,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",2.6310739179770475
+17.3112,77.9462,Kotherpally,1511008,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",4.9335095979979835
+17.3328,77.929,Shivareddypet,1511009,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",2.3066070275838695
+17.3298,77.9192,Ennepally -I,1511010,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",1.408300229668461
+17.33,77.9195,Ennepally -II,1511011,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",1.4263639280222191
+17.3711,77.9042,Kothagadi -I,1511012,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",3.945564379305226
+17.3714,77.9056,Kothagadi -II,1511013,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",3.9685101584012994
+17.3159,77.8729,Kompally,1511014,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",4.284511731345725
+17.3080327,77.9633358,Athwelly,1511015,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",4.795095766145878
+17.3898,77.8644,Madanapally I,1511016,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",7.5516237369399635
+17.3183,77.8685,Peelaram,1511017,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",4.57139608171245
+17.3715,77.9046,Girigetpally,1511018,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",3.986377458367927
+17.3828,77.9178,Narayanpur,1511019,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",5.344246981729635
+17.3823,77.8115,M D Pally -I,1511020,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",7.024380654949828
+17.3812,77.8142,M D Pally -I I,1511021,1,21,Primary Health Centre,Kotepally,Kotepally,17.384470999999998,77.74534399999999,"Primary Health Centre, Kotepally, Kotepally",7.315814376516078
+17.3895,77.9418,Pendlimadgu,1511022,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",4.747939734118943
+17.3549,78.0042,Sidduloor-I,1511023,1,10,Primary Health Centre,Siddaloor,Vikarabad,17.358712,77.991936,"Primary Health Centre, Siddaloor, Vikarabad",1.3688795167164145
+17.3549,78.0042,Sidduloor-II,1511024,1,10,Primary Health Centre,Siddaloor,Vikarabad,17.358712,77.991936,"Primary Health Centre, Siddaloor, Vikarabad",1.3688795167164145
+17.3672,77.9427,Kotalaguda,1511025,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",5.1175511291510025
+17.3545,77.97,Peerampally,1511026,1,10,Primary Health Centre,Siddaloor,Vikarabad,17.358712,77.991936,"Primary Health Centre, Siddaloor, Vikarabad",2.374750782428041
+17.3673,77.9423,Kamareddyguda,1511027,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",5.094282347344085
+17.3545,77.97,Pulusumamidi,1511028,1,10,Primary Health Centre,Siddaloor,Vikarabad,17.358712,77.991936,"Primary Health Centre, Siddaloor, Vikarabad",2.374750782428041
+17.332,77.9545,Buranpally,1511029,1,10,Primary Health Centre,Siddaloor,Vikarabad,17.358712,77.991936,"Primary Health Centre, Siddaloor, Vikarabad",4.960865644727864
+17.3658,77.9522,Pathoor,1511030,1,10,Primary Health Centre,Siddaloor,Vikarabad,17.358712,77.991936,"Primary Health Centre, Siddaloor, Vikarabad",4.290142213235726
+17.3616,77.9429,Dhannaram,1511031,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",4.730985963088726
+17.3375075,77.8983539,Pulmaddi -I,1511032,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",0.9892045892592898
+17.3375075,77.8983539,Pulmaddi -II,1511033,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",0.9892045892592898
+17.3561,77.883,Erravally,1511034,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",3.445916001151101
+17.2957,77.8844,Burgupally,1511035,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",5.083983449858302
+17.3127,77.9151,Gudupally,1511036,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",2.6879339369954542
+17.2751,77.8959,M C Pally -I,1511037,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",6.620981355427741
+17.2747,77.8985,M C Pally -II,1511038,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",6.34136060813539
+17.2546,77.8653,Gottimukula,1511039,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",8.603079041870028
+17.2457,77.8497,Dycharam,1511040,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",8.159160202816102
+17.3129,77.9173,Venkatapur tanda,1511041,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",2.746495340287898
+17.3112,77.914,Maddulgadda tanda,1511042,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",2.8165649772193198
+17.3431,77.8772,Laxminagar tanda,1511043,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",3.3172262224426348
+17.3221,77.9503,Buranpally tanda,1511044,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",4.791082086663925
+17.4257,77.9614,Nawabpet,1511045,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",0.21731528470626935
+17.4277,77.9609,Yetraspally,1511046,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",0.14917569146880497
+17.3943,77.9567,Chittigadda -I,1511047,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",3.734848502008773
+17.4255,77.9613,Chittagadda-II,1511048,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",0.24195522273219466
+17.3887,77.9925,Gollaguda,1511049,1,10,Primary Health Centre,Siddaloor,Vikarabad,17.358712,77.991936,"Primary Health Centre, Siddaloor, Vikarabad",3.3350505798705323
+17.4515,78.0035,Madireddypally -I,1511050,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",5.124572455383107
+17.4515,78.0034,Madreddypally-II,1511051,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",5.115524253527951
+17.4093,78.0347,Gangada-I,1511052,1,10,Primary Health Centre,Siddaloor,Vikarabad,17.358712,77.991936,"Primary Health Centre, Siddaloor, Vikarabad",7.227378521727606
+17.4093,78.0348,Gangada-II,1511053,1,10,Primary Health Centre,Siddaloor,Vikarabad,17.358712,77.991936,"Primary Health Centre, Siddaloor, Vikarabad",7.23404606908382
+17.4385,78.03699999999999,Yellakonda -I,1511054,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",8.020881618871256
+17.4384,78.03699999999999,Yellakonda -II,1511055,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",8.019189924387716
+17.426609600000003,78.0206174,Lingampally,1511056,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",6.189375086073648
+17.357736600000003,77.9083537,Dathapur,1511057,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",2.445845757308591
+17.4157,77.98899999999999,Pulmamidi -I,1511058,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",3.1216525657634966
+17.4112,77.9924,Pulmamid -II,1511059,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",3.671415738254044
+17.4225,78.0595,Gubbadipathapoor,1511060,1,10,Primary Health Centre,Siddaloor,Vikarabad,17.358712,77.991936,"Primary Health Centre, Siddaloor, Vikarabad",10.085086853756351
+17.4677,78.0374,Maithabkhanguda,1511061,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",9.138421494114988
+17.357736600000003,77.9083537,Vattimeenapally,1511062,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",2.445845757308591
+17.4329,78.0608,Mubarakpur,1511063,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",10.468949854038874
+17.4443,77.9186,Madharam,1511064,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",4.998139584296229
+17.3892,77.961,Chinchalpet -I,1511065,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",4.256832051307745
+17.3923,77.9636,Chinchalpet -II,1511066,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",3.9124395668829024
+17.3345995,77.9035155,Aknapur,1511067,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",0.44113632738629854
+17.4003,77.9868,Athapur,1511068,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",3.9860425978465672
+17.4034,77.9194,Ekmamidi -I,1511069,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",5.278335379309661
+17.4037,77.9115,Ekmamidi -II,1511070,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",6.001091326670553
+17.3988,77.899,Mamdhanpally,1511071,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",7.067851816752521
+17.4199,77.9327,Nagireddypally,1511072,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",3.249364572876083
+17.404,77.9188,Thimmareddypally,1511073,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",5.300142572958271
+17.4075,77.9483,Keshavapally,1511074,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",2.6699571802657323
+17.4105,77.932,Keshavapally tanda,1511075,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",3.725738061289406
+17.4282,77.9051,Kummariguda,1511076,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",6.067233681263579
+17.3994,78.0188,Poolapally,1511077,1,10,Primary Health Centre,Siddaloor,Vikarabad,17.358712,77.991936,"Primary Health Centre, Siddaloor, Vikarabad",5.347542236791879
+17.3854,77.9252,Mulamada,1511078,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",5.831337853882919
+17.3434715,77.9052027,Gatewanampally,1511079,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",0.8916428669397883
+17.4283,77.9049,Arkathala,1511080,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",6.088608008748109
+17.47,77.8854,Meenapally kalan,1511081,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",5.413120903929739
+17.3350932,77.90516120000001,Kedicherla,1511082,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",0.25804314109358695
+17.626620300000003,78.0721465,Yavapur,1511083,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",22.22383395318779
+17.3993,78.0191,Naraguda,1511084,1,10,Primary Health Centre,Siddaloor,Vikarabad,17.358712,77.991936,"Primary Health Centre, Siddaloor, Vikarabad",5.355207415386844
+17.3107,77.7809,Dharoor -I,1511085,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",0.9769505556033193
+17.3083,77.7792,Dharoor -II,1511086,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",0.6553489990706414
+17.2892,77.7568,Dharoor station,1511087,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",2.54567213680912
+17.3051,77.7725,L N Tanda,1511088,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",0.34500784593398887
+17.3072,77.7657,D K Tanda,1511089,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",1.1004312671901362
+17.2816,77.7639,Dornal,1511090,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",2.7400130716311537
+17.2796,77.7525,Dornal tanda,1511091,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",3.614498818873231
+17.2467,77.7568,Ampally,1511092,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",6.634739339437165
+17.253,77.7582,Gurudotla,1511093,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",5.922061694139522
+17.2467,77.7568,Sherigadda tanda,1511094,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",6.634739339437165
+17.3107,77.7808,Kumaripally,1511095,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",0.9706233741101348
+17.2682,77.775,Nagaram,1511096,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",3.944071291306975
+17.2628,77.7782,Nagaram tanda,1511097,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",4.554146309900324
+17.2677,77.7953,Mylaram,1511098,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",4.5240902070755
+17.2834,77.8043,Rajapur,1511099,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",3.8084744856439023
+17.3107,77.7808,Mominkalan,1511100,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",0.9706233741101348
+17.3435,77.7841,Kukinda,1511101,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",4.524741340418927
+17.3477,77.8203,Kondapur kalan,1511102,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",6.834125084083931
+17.3133,77.7804,Gaddamidi Gangaram,1511103,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",1.1961480799999697
+17.3133,77.7803,Narsapur,1511104,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",1.1914590790952826
+17.3303,77.7592,Rudraram,1511105,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",3.423556980744283
+17.3212,77.7461,Gattepally,1511106,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",3.6693140401269098
+17.3153,77.7482,Gattepally tanda,1511107,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",3.1623293681964664
+17.3107,77.7808,Rampur tanda,1511108,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",0.9706233741101348
+17.3519,77.7223,Nagasamunder -I,1511109,1,17,Primary Health Centre,Nagasamander,Dharur,17.352184,77.72369599999999,"Primary Health Centre, Nagasamander, Dharur",0.15149174072863897
+17.3498,77.7241,Nagasamunder -II,1511110,1,17,Primary Health Centre,Nagasamander,Dharur,17.352184,77.72369599999999,"Primary Health Centre, Nagasamander, Dharur",0.2685341575504889
+17.3408,77.7122,Allapur,1511111,1,17,Primary Health Centre,Nagasamander,Dharur,17.352184,77.72369599999999,"Primary Health Centre, Nagasamander, Dharur",1.758165614456359
+17.3134,77.7797,Kerelly -I,1511112,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",1.1751924396104272
+17.3107,77.8309,Kerelly -II,1511113,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",5.945350356379909
+17.3011,77.8334,Kondapur kurdu,1511114,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",6.165884830330667
+17.3068,77.8479,Bacharam,1511115,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",7.097998823334734
+17.3107,77.7808,Allipur,1511116,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",0.9706233741101348
+17.3011,77.7959,Haridaspally,1511117,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",2.196787506099858
+17.2909,77.7876,Chintakunta,1511118,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",1.9230037594096538
+17.3122,77.8159,Ebbanoor,1511119,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",4.404668266824123
+17.2976,77.8672,Godumguda,1511120,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",6.024486752365427
+17.2873,77.8542,Jaidupally,1511121,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",7.81254131422502
+17.2718,77.8476,Sarpanpally,1511122,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",8.44664364922788
+17.2489,77.8458,Nagasunpally,1511123,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",8.656123523970292
+17.335151899999996,77.90255479999999,Antharam,1511124,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",0.528236787132343
+17.2703,77.8181,Tarigopula,1511125,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",5.8597041358575765
+17.3632,77.8258,R C Pally,1511126,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",8.51226550825782
+17.3105,77.7808,Munnurusomaram,1511127,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",0.9527992079097312
+17.3477,77.8203,Kycharam,1511128,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",6.834125084083931
+17.3132,77.7796,Ouspally,1511129,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",1.1505748838516514
+17.2957,77.8454,Mominkurdu,1511130,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",7.4859528309086665
+17.349439999999998,77.8143914,Dharmapur,1511131,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",6.561224052432382
+17.279,77.7895,Mailaram kotha tanda,1511132,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",3.125731659925708
+17.2479,77.7525,P C M Tanda,1511133,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",6.6601225457783535
+17.3336,77.7743,Thimmanagar,1511134,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",3.3302714861395386
+17.2677,77.7955,Mailram mundati tanda,1511135,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",4.534054497515306
+17.2669,77.9622,Pudur -I,1511136,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",0.5402709578948233
+17.2702,77.9599,Pudur -II,1511137,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",0.6076735115291209
+17.2673,77.9573,Pudur -III,1511138,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",0.2245188052638262
+17.2488,77.9615,Chinnabandal tanda,1511139,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",1.8838018417132718
+17.2323,78.0103,Medikonda,1511140,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",2.9623393307422563
+17.2728,77.9863,Cheelapur,1511141,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",3.180270277052297
+17.2396,77.9557,Rakemcherla,1511142,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",2.8615543940981802
+17.2377,77.9421,Thirmalapur Thanda,1511143,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",3.4709694401587843
+17.2259,77.9331,Somanagurthi -I,1511144,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",5.083092770652329
+17.2258,77.9334,Somanagurthi -II,1511145,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",5.076605524820418
+17.2252,77.9497,Devinoniguda,1511146,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",4.531474473618285
+17.2234,77.9499,Keravelly,1511147,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",4.724849118313262
+17.207,77.9636,Serigaipally,1511148,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",6.51413902228749
+17.2219,77.983,Peddamunthal -I,1511149,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",5.5372220472837
+17.3929483,78.42537320000001,Peddamunthal -II,1511150,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",45.212812968112374
+17.2221,77.983,Peddamunthal -III,1511151,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",5.517857664691608
+17.1981,78.0048,Kankal -I,1511152,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",6.68435447733516
+17.2114,78.0163,Kankal -II,1511153,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",4.944487340051465
+17.1878,78.024,Pudugurthy,1511154,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",7.488850765719641
+17.1789,77.9963,Manchanpally -I,1511155,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",6.7431918643323385
+17.1793,77.9699,Manchanpally -II,1511156,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",6.097061579581811
+17.2817,78.0248,Gattupally,1511157,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",2.952713614641102
+17.1606,78.0006,Nizampetmedipally,1511158,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",5.283899606524963
+17.1754,78.01899999999999,Chinthala pally,1511159,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",7.8162660385383855
+17.1419,77.9973,Thurkenikpally,1511160,1,15,Primary Health Centre,Chityal,Pargi,17.124489800000003,77.96827490000001,"Primary Health Centre, Chityal, Pargi",3.6414570607625816
+17.2574,78.0258,Changomul -I,1511161,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",0.2788474337878274
+17.2591,78.0261,Changomul -II,1511162,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",0.46588187929823954
+17.2879,78.0295,A C Pally -I,1511163,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",3.678321379425802
+17.2879,78.0295,A C Pally -II,1511164,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",3.678321379425802
+17.2642,78.0178,Ragadimamidipaly,1511165,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",1.2419742372937606
+17.2755,78.0274,Pothireddyguda,1511166,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",2.282034880552193
+17.2564,78.0265,Mittakankal,1511167,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",0.24099385820067715
+17.2323,78.0103,Qutubullapur,1511168,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",2.9623393307422563
+17.2642,78.0178,Kadmoor,1511169,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",1.2419742372937606
+17.2472,78.0097,Medipally kalan,1511170,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",1.816795242296235
+17.2926,78.0233,Kandlapally -I,1511171,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",4.167157217131544
+17.2926,78.0232,Kandlapally -II,1511172,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",4.1675356949720275
+17.2841,78.0163,Bakapur,1511173,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",3.3393609583407056
+17.2574,78.0258,Thimmapur,1511174,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",0.2788474337878274
+17.2982,77.9822,Manneguda,1511175,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",4.508802658949279
+17.2963,77.9734,Gagnuaplly,1511176,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",3.8445098901076324
+17.2963,77.9734,Gangupally tanda,1511177,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",3.8445098901076324
+17.3112,77.97399999999999,Enkepally,1511178,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",5.401280062118703
+17.3059,77.9684,Chanchuypally,1511179,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",4.664893360462299
+17.2642,78.0178,Kothapally,1511180,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",1.2419742372937606
+17.2999,77.9975,Mirjapur,1511181,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",5.739502456647127
+17.327,77.929,Shiva Reddypet II,1511182,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",2.4820361388879855
+17.3314,77.9069,Gangaram III,1511183,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",0.48841051174896893
+17.3417,77.8885,Rajeev Nagar Colony,1511184,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",2.121338688819378
+17.3384,77.8872,Ambethekar Nagar Colony,1511185,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",2.173724069913359
+17.3395,77.8971,Indira Nagar,1511186,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",1.178885839707096
+17.3395,77.9077,Subash Nagar,1511187,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",0.41690443471885424
+17.3385,77.9004,Shivaram Nagar Colony,1511188,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",0.8121550171930596
+17.3385,77.8876,Riksha colony,1511189,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",2.133226138303107
+17.3531,77.9044,Venkteshwara Colony,1511190,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",1.9562708438291465
+17.3356,77.8991,Gareeb Nagar Colony,1511191,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",0.8908227542226373
+17.352999999999998,77.9045,Alampally III,1511192,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",1.9435478727218136
+17.3712,77.9041,Kothagadi III,1511193,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",3.9575913803154443
+17.4454196,77.7042498,Jambapurthanda,1511194,1,18,Primary Health Centre,Bantwaram,Bantwaram,17.441351899999997,77.70748370000001,"Primary Health Centre, Bantwaram, Bantwaram",0.5676884616257416
+17.3090232,78.14308129999999,Rajiv Gruhakalpa,1511195,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",13.928728904346906
+17.3898,77.8644,Madanapally II,1511196,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",7.5516237369399635
+17.2546,77.8654,gottimukalla II,1511197,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",8.601022436286026
+17.3616,77.9429,Dhannaram III,1511198,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",4.730985963088726
+17.3545,77.9986,Kotalaguda II,1511199,1,10,Primary Health Centre,Siddaloor,Vikarabad,17.358712,77.991936,"Primary Health Centre, Siddaloor, Vikarabad",0.8482776022052364
+17.3547,77.97,Pulsumamidi II,1511200,1,10,Primary Health Centre,Siddaloor,Vikarabad,17.358712,77.991936,"Primary Health Centre, Siddaloor, Vikarabad",2.3704637828248365
+17.3081,77.775,Dharur III,1511201,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",0.494490383291537
+17.2957,77.8454,Mominkalan II,1511202,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",7.4859528309086665
+17.3498,77.7242,Nagasamundar III,1511203,1,17,Primary Health Centre,Nagasamander,Dharur,17.352184,77.72369599999999,"Primary Health Centre, Nagasamander, Dharur",0.2704319222814471
+17.271,77.8179,Tarigoupula II,1511204,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",5.794165354469775
+17.3105,77.7808,Munurusomaram II,1511205,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",0.9527992079097312
+17.3107,77.7808,Alipur,1511206,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",0.9706233741101348
+17.410999999999998,77.9924,Pulmamidi III,1511207,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",3.682421974042353
+17.4102,77.9292,Ekamamidi III,1511208,1,9,Primary Health Centre,Nawabpet,Nawabpet,17.427463,77.962284,"Primary Health Centre, Nawabpet, Nawabpet",4.000663259812504
+17.335592499999997,77.902885,Gatevanampally II,1511209,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",0.48923693915984934
+17.4563,77.8933,Menapally Kalan,1511210,1,8,Primary Health Centre,Mominpet,Mominpet,17.517518,77.89649200000001,"Primary Health Centre, Mominpet, Mominpet",6.815543708076262
+17.2017,78.0072,Kankal,1511211,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",6.225161803528971
+17.2472,78.0097,Medipally Kalan-II,1511212,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",1.816795242296235
+17.2573,78.0263,Chengomulu,1511213,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",0.2968227878715854
+17.2211,78.0334,Kadmur,1511214,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",3.898147294145139
+17.3267,77.8646,Kottamguttatanda (Mini),1511215,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",4.662763633753424
+17.2750527,78.13417249999999,Chechupally (Mini),1511216,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",11.838497266285586
+17.2508,77.9089,Tekulabeeduthanda (Mini),1511217,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",5.396271022222396
+17.3439,77.9248,Sreeramnagar Tanda (Mini),1511218,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",2.0482622637959116
+17.2957,77.8843,Burugupally tanda (Mini),1511219,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",5.089110220111405
+17.3134,78.0286,Lalsingtanda (Mini),1511220,1,10,Primary Health Centre,Siddaloor,Vikarabad,17.358712,77.991936,"Primary Health Centre, Siddaloor, Vikarabad",6.366403342386211
+17.3134,77.7796,Kerelly (Mini),1511221,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",1.1710933205687706
+17.3107,77.7808,Kukinda (Mini),1511222,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",0.9706233741101348
+17.2467,77.7568,Gurudotlaurentanda (Mini),1511223,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",6.634739339437165
+17.261608300000002,77.7797157,Bojanayaktanda (Mini),1511224,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",4.699395198122144
+17.2467,77.7568,Jeedigadathanda (Mini),1511225,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",6.634739339437165
+17.2854,77.9585,Maisamagadda (Mini),1511226,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",2.239922721910684
+17.3189725,78.1209861,Matuguda (Mini),1511227,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",12.449426038075556
+17.2931,77.9948,Dandugadtanda (Mini),1511228,1,12,Primary Health Centre,Pudur,Pudur,17.2652832,77.95740190000001,"Primary Health Centre, Pudur, Pudur",5.033334092152047
+17.2564,78.0265,Barlapally (Mini),1511229,1,11,Primary Health Centre,Chengomul,Pudur,17.255146,78.024649,"Primary Health Centre, Chengomul, Pudur",0.24099385820067715
+17.357736600000003,77.9083537,Ramanguda (Mini),1511230,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",2.445845757308591
+17.2768,77.8368,Inapur (Mini),1511231,1,16,Primary Health Centre,Dharur,Dharur,17.303668,77.77538299999999,"Primary Health Centre, Dharur, Dharur",7.172489227747777
+17.3557,77.9028,Chencupally (Mini),1511232,1,1,Area Hospital,Vikarabad,Vikarabad,17.335756,77.90749100000001,"Area Hospital, Vikarabad, Vikarabad",2.272876110421423
+17.1938,77.9312,Mariyapur (Mini),1511233,1,2,Community Health Centre,Pargi,Pargi,17.178704,77.88103199999999,"Community Health Centre, Pargi, Pargi",5.587452496486423
