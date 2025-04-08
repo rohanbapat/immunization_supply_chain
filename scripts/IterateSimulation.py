@@ -27,25 +27,29 @@ frac_vac_df = pd.DataFrame()
 
 
 
-scen_params_setting = {'scenario_name': ['replenishmentdisruption'],
-                'ss_mode': ['periodic', 'continuous'],
-                'ss_replenishment_source': ['phc', 'dvs'],
-                'replenishmentdisruption': [0.05, 0.1, 0.15, 0.2],
-                'ccedisruption': [0]}
+scen_params_setting = {'scenario_name': ['ccedisruption'],
+                'ss_mode': ['periodic-2device'],
+#                'ss_mode': ['periodic', 'continuous'],
+#                'ss_replenishment_source': ['phc', 'dvs'],
+                'ss_replenishment_source': ['phc'],
+#                'replenishmentdisruption': [0.05, 0.1, 0.15, 0.2],
+#                'replenishmentdisruption': [0.1, 0.2],
+                'replenishmentdisruption': [0],
+                'ccedisruption': [0],
+#                'ccedisruption': [1/365, 2/365, 3/365, 4/365]
+                }
 
 keys, values = zip(*scen_params_setting.items())
 scen_combos = [dict(zip(keys, p)) for p in product(*values)]
 ct = 0
 
 for scen_params in scen_combos:
-    print(scen_params)
     if (scen_params['ss_mode'] == 'periodic') & (scen_params['ss_replenishment_source']=='dvs'):
         continue
     else:
         for i in range(100):
         
             median_delay, delay_greater_30, frac_vac = SimulateDemand.main(i, scen_params['scenario_name'], scen_params['ss_mode'], scen_params['ss_replenishment_source'], scen_params['replenishmentdisruption'], scen_params['ccedisruption'])
-            
             median_delay_scen_param = {**scen_params, **median_delay}
             delay_greater_30_scen_param = {**scen_params, **delay_greater_30}
             frac_vac_scen_param = {**scen_params, **frac_vac}
@@ -55,7 +59,7 @@ for scen_params in scen_combos:
             frac_vac_df = frac_vac_df.append(pd.DataFrame(frac_vac_scen_param, index=[ct]))
         
         ct+=1
-    
-median_delay_df.to_csv(path_data / '07 median_delay_replenishment_disruption_df.csv', index = False)
-delay_greater_30_df.to_csv(path_data / '07 delay_greater_30_replenishment_disruption_df.csv', index = False)
-frac_vac_df.to_csv(path_data / '07 frac_vac_replenishment_disruption_df.csv', index = False)
+
+median_delay_df.to_csv(path_data / '07 median_delay_2device_df.csv', index = False)
+delay_greater_30_df.to_csv(path_data / '07 delay_greater_30_2device_df.csv', index = False)
+frac_vac_df.to_csv(path_data / '07 frac_vac_2device_df.csv', index = False)

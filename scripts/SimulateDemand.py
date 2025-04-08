@@ -72,11 +72,44 @@ def starting_capacity_today_func_periodic(today, phc_attributes, supply_demand_c
     else:
         supply_demand_combined['starting_capacity'][today] = max(supply_demand_combined['starting_capacity'][today-1] - supply_demand_hc_level['demand_served']['phc'][today-1] - supply_demand_hc_level['demand_served']['ss'][today-1], 0)
     
-    if today in phc_attributes['phc_cce_disruption']:
+#    if today in phc_attributes['phc_cce_disruption']:
+#        supply_demand_combined['starting_capacity'][today] = 0
+        
+    if random.random() < phc_attributes['phc_cce_disruption']:
         supply_demand_combined['starting_capacity'][today] = 0
     
     return supply_demand_combined
 
+
+def starting_capacity_today_func_periodic_2device(today, phc_attributes, supply_demand_combined, supply_demand_hc_level):
+        
+    if ((today%phc_attributes['phc_replenishment_frequency']==0) & (random.random() > phc_attributes['phc_replenishment_disruption'])) or (today == 0): 
+    #    PHC Replenishment day & PHC replenishment not disrupted or Day 0
+        supply_demand_combined['starting_capacity'][today] = phc_attributes['max_stock_S'] + phc_attributes['device_2_capacity']
+    else:
+        supply_demand_combined['starting_capacity'][today] = max(supply_demand_combined['starting_capacity'][today-1] - supply_demand_hc_level['demand_served']['phc'][today-1] - supply_demand_hc_level['demand_served']['ss'][today-1], 0)
+    
+#    if today in phc_attributes['phc_cce_disruption']:
+#        supply_demand_combined['starting_capacity'][today] = 0
+
+    device_1_mal = 0
+    device_2_mal = 0
+    
+#    If device 1 malfunctions
+    if random.random() < phc_attributes['phc_cce_disruption']:
+        device_1_mal = 1
+        supply_demand_combined['starting_capacity'][today] = min(supply_demand_combined['starting_capacity'][today], phc_attributes['device_2_capacity'])
+
+#    If device 2 malfunctions
+    if random.random() < phc_attributes['phc_cce_disruption']:
+        device_2_mal = 1
+        supply_demand_combined['starting_capacity'][today] = min(supply_demand_combined['starting_capacity'][today], phc_attributes['max_stock_S'])
+    
+    if (device_1_mal and device_2_mal):
+        supply_demand_combined['starting_capacity'][today] = 0
+        
+    
+    return supply_demand_combined
 
 def starting_capacity_today_func_continuous(today, phc_attributes, ss_attributes, supply_demand_hc_level):
         
@@ -96,11 +129,18 @@ def starting_capacity_today_func_continuous(today, phc_attributes, ss_attributes
         supply_demand_hc_level['starting_capacity']['phc'][today] = max(supply_demand_hc_level['starting_capacity']['phc'][today-1] - supply_demand_hc_level['demand_served']['phc'][today-1],0)
         supply_demand_hc_level['starting_capacity']['ss'][today] = max(supply_demand_hc_level['starting_capacity']['ss'][today-1] - supply_demand_hc_level['demand_served']['ss'][today-1],0)
     
-    if today in phc_attributes['phc_cce_disruption']:
+#    if today in phc_attributes['phc_cce_disruption']:
+#        supply_demand_hc_level['starting_capacity']['phc'][today] = 0
+#
+#    if today in ss_attributes['ss_cce_disruption']:
+#        supply_demand_hc_level['starting_capacity']['ss'][today] = 0
+
+    if random.random() < phc_attributes['phc_cce_disruption']:
         supply_demand_hc_level['starting_capacity']['phc'][today] = 0
 
-    if today in ss_attributes['ss_cce_disruption']:
+    if random.random() < ss_attributes['ss_cce_disruption']:
         supply_demand_hc_level['starting_capacity']['ss'][today] = 0
+
     
     return supply_demand_hc_level
 
@@ -108,15 +148,16 @@ def starting_capacity_today_func_continuous(today, phc_attributes, ss_attributes
 
 # In[12]:
 
-def supply_demand_periodic(today, session_frequency, sdc, sdhl, type_hc):
+def supply_demand_periodic(today, ss_attributes, sdc, sdhl, type_hc):
     
     if type_hc == 'phc':
         starting_capacity_today = max(sdc['starting_capacity'][today] - np.sum(sdhl['demand_served']['ss'][today]),0)
     else:
         starting_capacity_today = sdc['starting_capacity'][today]                                                                   
 
-    if ((today+7)%session_frequency==0) or (type_hc == 'phc'):
-        # Session day at session site or regular day at PHC
+    ss_disruption_today = 1 if random.random() > ss_attributes['ss_session_disruption'] else 0
+    if (((today-ss_attributes['session_start'])%ss_attributes['session_frequency']==0) and (~ss_disruption_today)) or (type_hc == 'phc'):
+        # Session day at session site & session not disrupted or regular day at PHC
         if np.sum(sdhl['actual_demand'][type_hc]) <= starting_capacity_today:
             served_indices = np.nonzero(sdhl['actual_demand'][type_hc])[0]
             sdhl['demand_fulfilled_dates'][type_hc][served_indices] = today
@@ -132,7 +173,14 @@ def supply_demand_periodic(today, session_frequency, sdc, sdhl, type_hc):
             sdc['demand_unserved'][luckyones] = 0
             sdc['demand_queued'][luckyones] = 0
             sdc['demand_queued'][unluckyones] = 0
-            sdhl['bad_experience'][type_hc][unluckyones] = 1
+            sdhl['bad_experience'][type_hc][unluckyones]+= 1
+            
+    elif(((today-ss_attributes['session_start'])%ss_attributes['session_frequency']==0) and (ss_disruption_today)):
+        # Session day at SS and session disrupted
+        unserved_indices = np.nonzero(sdhl['actual_demand']['ss'])[0]
+        sdc['demand_unserved'][unserved_indices] = 1
+        sdc['demand_queued'][unserved_indices] = 0
+        sdhl['bad_experience']['ss'][unserved_indices]+= 1
     else:
         # Not a session day at session site
         unserved_indices = np.nonzero(sdhl['actual_demand']['ss'])[0]
@@ -144,7 +192,7 @@ def supply_demand_periodic(today, session_frequency, sdc, sdhl, type_hc):
 
 # In[12]:
 
-def supply_demand_continuous(today, session_frequency, sdc, sdhl, type_hc):
+def supply_demand_continuous(today, ss_attributes, sdc, sdhl, type_hc):
     
     starting_capacity_today = sdhl['starting_capacity'][type_hc][today] 
 
@@ -163,7 +211,7 @@ def supply_demand_continuous(today, session_frequency, sdc, sdhl, type_hc):
         sdc['demand_unserved'][luckyones] = 0
         sdc['demand_queued'][luckyones] = 0
         sdc['demand_queued'][unluckyones] = 0
-        sdhl['bad_experience'][type_hc][unluckyones] = 1
+        sdhl['bad_experience'][type_hc][unluckyones]+=1
         
     return sdc, sdhl
 
@@ -195,6 +243,65 @@ def total_delay_calc_func(time_window, demand_estimate_range, supply_demand_hc_l
     return median_delay, delay_greater_30, frac_vac
 
 
+def caregiver_choices(today, attribute_matrix, p_matrix, caregiver_attributes, supply_demand_hc_level, prev_queue_cache):
+    
+    # Demand dates for demand fulfilled till today
+    demand_fulfilled_dates_ss_df = pd.DataFrame({'demand_fulfilled_dates': supply_demand_hc_level['demand_fulfilled_dates']['ss'][:today+1]})
+    demand_fulfilled_dates_ss_df = demand_fulfilled_dates_ss_df.reset_index()
+    demand_fulfilled_dates_ss_df = demand_fulfilled_dates_ss_df[demand_fulfilled_dates_ss_df['demand_fulfilled_dates']>0]
+
+    demand_fulfilled_dates_phc_df = pd.DataFrame({'demand_fulfilled_dates': supply_demand_hc_level['demand_fulfilled_dates']['phc'][:today+1]})
+    demand_fulfilled_dates_phc_df = demand_fulfilled_dates_phc_df.reset_index()
+    demand_fulfilled_dates_phc_df = demand_fulfilled_dates_phc_df[demand_fulfilled_dates_phc_df['demand_fulfilled_dates']>0]
+
+    demand_fulfilled_dates_df = demand_fulfilled_dates_ss_df.append(demand_fulfilled_dates_phc_df, ignore_index = False)
+    
+    # Caregiver's choice today
+    caregivers_choice = np.apply_along_axis(identity_choice, 0, p_matrix[:,:today+1,today])
+    
+    # Caregiver index who chose SS or PHC today
+    choice_ss = np.where(caregivers_choice[2]==1)[0]
+    choice_phc = np.where(caregivers_choice[1]==1)[0]
+    choice_no = np.where(caregivers_choice[0]==1)[0]
+    
+    # Removed queued caregiver from choice_SS and choice_PHC
+    queued_caregivers = np.where(prev_queue_cache==1)[0]
+    choice_ss = np.array(list(set(choice_ss) - set(queued_caregivers)))
+    choice_phc = np.array(list(set(choice_phc) - set(queued_caregivers)))
+    choice_no = np.array(list(set(choice_no) - set(queued_caregivers)))
+    
+    chosen_ss_dict = {'index':choice_ss, 'day': [today]*len(choice_ss), 'ChosenSS': [1]*len(choice_ss), 'ChosenPHC':[0]*len(choice_ss), 'ChosenNO':[0]*len(choice_ss)}
+    chosen_phc_dict = {'index':choice_phc, 'day': [today]*len(choice_phc), 'ChosenSS': [0]*len(choice_phc), 'ChosenPHC':[1]*len(choice_phc), 'ChosenNO':[0]*len(choice_phc)}
+    chosen_no_dict = {'index':choice_no, 'day': [today]*len(choice_no), 'ChosenSS': [0]*len(choice_no), 'ChosenPHC':[0]*len(choice_no), 'ChosenNO':[1]*len(choice_no)}
+    
+    chosen_ss_df = pd.DataFrame.from_dict(chosen_ss_dict,orient='index').transpose()
+    chosen_phc_df = pd.DataFrame.from_dict(chosen_phc_dict,orient='index').transpose()
+    chosen_no_df = pd.DataFrame.from_dict(chosen_no_dict,orient='index').transpose()
+
+    chosen_ss_df = chosen_ss_df.merge(demand_fulfilled_dates_df, on = 'index', how = 'left')
+    chosen_ss_df['demand_fulfilled_dates'] = chosen_ss_df['demand_fulfilled_dates'].fillna(10000)
+    chosen_ss_df = chosen_ss_df[chosen_ss_df['day']<= chosen_ss_df['demand_fulfilled_dates']]
+    
+    chosen_phc_df = chosen_phc_df.merge(demand_fulfilled_dates_df, on = 'index', how = 'left')
+    chosen_phc_df['demand_fulfilled_dates'] = chosen_phc_df['demand_fulfilled_dates'].fillna(10000)
+    chosen_phc_df = chosen_phc_df[chosen_phc_df['day']<= chosen_phc_df['demand_fulfilled_dates']]
+
+    chosen_no_df = chosen_no_df.merge(demand_fulfilled_dates_df, on = 'index', how = 'left')
+    chosen_no_df['demand_fulfilled_dates'] = chosen_no_df['demand_fulfilled_dates'].fillna(10000)
+    chosen_no_df = chosen_no_df[chosen_no_df['day']<= chosen_no_df['demand_fulfilled_dates']]
+
+    caregiver_chosen_df = chosen_ss_df.append(chosen_phc_df.append(chosen_no_df, ignore_index = True), ignore_index = True)
+    
+    caregiver_attributes_df = pd.DataFrame(data=attribute_matrix[:today+1,:], columns=caregiver_attributes)  
+    caregiver_attributes_df = caregiver_attributes_df.reset_index()
+    
+    estimation_df = pd.merge(caregiver_attributes_df, caregiver_chosen_df, on = 'index', how = 'right')
+    estimation_df = estimation_df[estimation_df['index']!=0]
+    estimation_df = estimation_df.drop('demand_fulfilled_dates', axis = 1)
+    
+    return estimation_df
+
+
 # In[2]:
 def main(iternum, scen_name, ss_mode, ss_replenishment_source, replenishment_disruption, annual_cce_disruptions):
     
@@ -205,18 +312,24 @@ def main(iternum, scen_name, ss_mode, ss_replenishment_source, replenishment_dis
     
     phc_attributes = {'min_stock_s' : 20, #days of stock
                       'max_stock_S' : 50, #days of stock
+                      'device_2_capacity' : 20, # Assume new device is placed at PHC
                       'phc_replenishment_frequency' : 40, #days
                       'phc_replenishment_disruption' : replenishment_disruption, # Number of disruptions per year
-                      'phc_cce_disruption' : random.sample([i for i in range(1, time_window)], annual_cce_disruptions * int(time_window/365))
+                      'phc_replenishment_disruption_freq' : replenishment_disruption,
+#                      'phc_cce_disruption' : random.sample([i for i in range(1, time_window)], annual_cce_disruptions * int(time_window/365))
+                      'phc_cce_disruption' : annual_cce_disruptions
                      }
     
     ss_attributes = {'max_stock_S':20,
                      'session_frequency': 14,
+                     'ss_session_disruption': replenishment_disruption,
                      'ss_replenishment_frequency': 28,
                      'ss_replenishment_source': ss_replenishment_source, # phc or dvs
-                     'session_start': 21,
+                     'session_start': 7,
                      'ss_replenishment_disruption': replenishment_disruption, # Number of disruptions per year,
-                     'ss_cce_disruption' : random.sample([i for i in range(1, time_window)], annual_cce_disruptions * int(time_window/365))
+                     'ss_replenishment_disruption_freq' : replenishment_disruption,
+#                     'ss_cce_disruption' : random.sample([i for i in range(1, time_window)], annual_cce_disruptions * int(time_window/365))
+                     'ss_cce_disruption' : annual_cce_disruptions
                      }
 #    ss_replenishment_frequency = 28
 #    session_frequency = 28
@@ -224,7 +337,6 @@ def main(iternum, scen_name, ss_mode, ss_replenishment_source, replenishment_dis
 #    start_date = np.ones(time_window, dtype=np.int)
     
     alternatives = ['NO', 'PHC', 'SS']
-    
     
     # ### Attributes of alternatives
     
@@ -234,12 +346,12 @@ def main(iternum, scen_name, ss_mode, ss_replenishment_source, replenishment_dis
     X_distance_ss = np.random.normal(0,1,time_window)
 #    X_days_to_next_session_phc = np.ones(time_window)
     
-    if ss_mode == 'periodic':
-        # Days to next session at SS, assuming first session is at t=7
-        X_days_to_next_session_ss = np.array([ss_attributes['session_frequency'] - (today+7)%ss_attributes['session_frequency']-1 for today in range(time_window)])
-    else:
-        # if continuous availability at SS, then days to next session = 0
-        X_days_to_next_session_ss = np.zeros(time_window)
+#    if ss_mode == 'periodic' or ss_mode == 'periodic-2device':
+#        # Days to next session at SS, assuming first session is at t=7
+#        X_days_to_next_session_ss = np.array([ss_attributes['session_frequency'] - (today+7)%ss_attributes['session_frequency']-1 for today in range(time_window)])
+#    else:
+#        # if continuous availability at SS, then days to next session = 0
+#        X_days_to_next_session_ss = np.zeros(time_window)
     
     # ### Attributes of decision makers
     
@@ -262,8 +374,8 @@ def main(iternum, scen_name, ss_mode, ss_replenishment_source, replenishment_dis
     
     # In[5]:
     
-    sigma_sq = 1
-    sigma_corr = 0.8
+    sigma_sq = 0.01
+    sigma_corr = 0
     
     mean = [0] * time_window
     cov = np.ones((time_window, time_window))*sigma_corr + np.diag(np.full(time_window,sigma_sq-sigma_corr)) 
@@ -316,12 +428,22 @@ def main(iternum, scen_name, ss_mode, ss_replenishment_source, replenishment_dis
                              }
     # supply_demand_hc_level['starting_capacity'] is used for continuous replenishment at SS
     
+    caregiver_attributes = ['uno1', 'uno2', 'dist_phc','dist_ss', 'days_to_next_session_ss', 'sociodemographic', 'prior_unserved_phc', 'prior_unserved_ss', 'log_days_since_due_date']
+    
+    choices_made_df = pd.DataFrame()
     
     # In[14]:
-    
+    prev_queue_cache = supply_demand_combined['demand_queued'].copy()
 #    start_time = time.time()
     #Iterate through each time period
     for i in range(time_window):
+ 
+        if ss_mode == 'periodic' or ss_mode == 'periodic-2device':
+            # Days to next session at SS, assuming first session is at t=7
+            X_days_to_next_session_ss = np.array([(ss_attributes['session_frequency'] - (i - ss_attributes['session_start']))%ss_attributes['session_frequency'] ]*time_window)
+        else:
+            # if continuous availability at SS, then days to next session = 0
+            X_days_to_next_session_ss = np.zeros(time_window)
     
         attribute_matrix = np.array(([uno, uno, X_distance_phc, X_distance_ss, X_days_to_next_session_ss, S_sociodemographic, supply_demand_hc_level['bad_experience']['phc'], supply_demand_hc_level['bad_experience']['ss'], S_log_days_since_due_date[:,i]])).T
         
@@ -331,46 +453,59 @@ def main(iternum, scen_name, ss_mode, ss_replenishment_source, replenishment_dis
 
         if ss_mode == 'periodic':        
             supply_demand_combined = starting_capacity_today_func_periodic(i, phc_attributes, supply_demand_combined, supply_demand_hc_level)     
-            supply_demand_combined, supply_demand_hc_level = supply_demand_periodic(i, ss_attributes['session_frequency'], supply_demand_combined, supply_demand_hc_level, type_hc = 'ss')
-            supply_demand_combined, supply_demand_hc_level = supply_demand_periodic(i, ss_attributes['session_frequency'], supply_demand_combined, supply_demand_hc_level, type_hc= 'phc')
+            supply_demand_combined, supply_demand_hc_level = supply_demand_periodic(i, ss_attributes, supply_demand_combined, supply_demand_hc_level, type_hc = 'ss')
+            supply_demand_combined, supply_demand_hc_level = supply_demand_periodic(i, ss_attributes, supply_demand_combined, supply_demand_hc_level, type_hc= 'phc')
+        elif ss_mode == 'periodic-2device':
+            supply_demand_combined = starting_capacity_today_func_periodic_2device(i, phc_attributes, supply_demand_combined, supply_demand_hc_level)     
+            supply_demand_combined, supply_demand_hc_level = supply_demand_periodic(i, ss_attributes, supply_demand_combined, supply_demand_hc_level, type_hc = 'ss')
+            supply_demand_combined, supply_demand_hc_level = supply_demand_periodic(i, ss_attributes, supply_demand_combined, supply_demand_hc_level, type_hc= 'phc')
         else:
             supply_demand_hc_level = starting_capacity_today_func_continuous(i, phc_attributes, ss_attributes, supply_demand_hc_level)
-            supply_demand_combined, supply_demand_hc_level = supply_demand_continuous(i, ss_attributes['session_frequency'], supply_demand_combined, supply_demand_hc_level, type_hc= 'ss')
-            supply_demand_combined, supply_demand_hc_level = supply_demand_continuous(i, ss_attributes['session_frequency'], supply_demand_combined, supply_demand_hc_level, type_hc= 'phc')
-    
+            supply_demand_combined, supply_demand_hc_level = supply_demand_continuous(i, ss_attributes, supply_demand_combined, supply_demand_hc_level, type_hc= 'ss')
+            supply_demand_combined, supply_demand_hc_level = supply_demand_continuous(i, ss_attributes, supply_demand_combined, supply_demand_hc_level, type_hc= 'phc')
+        
+        # Following section for getting choices to back-estimate parameters
+        choices_made_today_df = caregiver_choices(i, attribute_matrix, p_matrix, caregiver_attributes, supply_demand_hc_level, prev_queue_cache)
+        choices_made_df = choices_made_df.append(choices_made_today_df, ignore_index = True)
+        prev_queue_cache = supply_demand_combined['demand_queued'].copy()
 #    print("--- %s seconds ---" % (time.time() - start_time))
     
+    choices_made_df = choices_made_df[choices_made_df['index']>=demand_estimate_range[0]]
+    choices_made_df = choices_made_df[choices_made_df['index']<=demand_estimate_range[1]]
+    choices_made_df = choices_made_df[choices_made_df['day']<=demand_estimate_range[1]+50]
     
+#    return choices_made_df
     # In[15]:
     
-    plt.style.use("dark_background")
-    plt.figure(figsize=(12, 4))
-    plt.plot([i for i in range(time_window)],supply_demand_combined['starting_capacity'])
-    plt.ylabel('Starting Capacity')
-    plt.xlabel('Day')
-    plt.show()
+#    plt.style.use("dark_background")
+#    plt.figure(figsize=(12, 4))
+#    plt.plot([i for i in range(time_window)],supply_demand_combined['starting_capacity'])
+##    plt.plot([i for i in range(time_window)],supply_demand_hc_level['starting_capacity']['phc'])
+#    plt.ylabel('Starting Capacity')
+#    plt.xlabel('Day')
+#    plt.show()
     
     
     # In[16]:
     
-    visit_phc = np.zeros(time_window, dtype=np.int)
-    visit_ss = np.zeros(time_window, dtype=np.int)
-    visit_phc_or_ss = np.zeros(time_window, dtype=np.int)
-    
-    for i in range(time_window):
-        # Find all dates AFTER DUE DATE when PHC/SS was chosed by individual i
-        # If no such dates then -1, else return first date 
-        # This represents number of days since due date when HC was selected
-        visit_phc[i] = -1 if len(np.where(np.argmax(p_matrix[:,i,i:], axis = 0)==1)[0])==0 else int(np.where(np.argmax(p_matrix[:,i,i:], axis = 0)==1)[0][0])
-        visit_ss[i] = -1 if len(np.where(np.argmax(p_matrix[:,i,i:], axis = 0)==2)[0])==0 else int(np.where(np.argmax(p_matrix[:,i,i:], axis = 0)==2)[0][0])
-        visit_phc_or_ss[i] = -1 if len(np.where(np.argmax(p_matrix[:,i,i:], axis = 0)!=0)[0])==0 else int(np.where(np.argmax(p_matrix[:,i,i:], axis = 0)!=0)[0][0])
-        
-        # If PHC chosen first then visit_SS = -1 else otherwise
-        if (visit_phc[i]!=-1) & (visit_ss[i]!=-1):
-            if visit_phc[i]>visit_ss[i]:
-                visit_phc[i] = -1
-            elif visit_phc[i]<visit_ss[i]:
-                visit_ss[i] = -1    
+#    visit_phc = np.zeros(time_window, dtype=np.int)
+#    visit_ss = np.zeros(time_window, dtype=np.int)
+#    visit_phc_or_ss = np.zeros(time_window, dtype=np.int)
+#    
+#    for i in range(time_window):
+#        # Find all dates AFTER DUE DATE when PHC/SS was chosed by individual i
+#        # If no such dates then -1, else return first date 
+#        # This represents number of days since due date when HC was selected
+#        visit_phc[i] = -1 if len(np.where(np.argmax(p_matrix[:,i,i:], axis = 0)==1)[0])==0 else int(np.where(np.argmax(p_matrix[:,i,i:], axis = 0)==1)[0][0])
+#        visit_ss[i] = -1 if len(np.where(np.argmax(p_matrix[:,i,i:], axis = 0)==2)[0])==0 else int(np.where(np.argmax(p_matrix[:,i,i:], axis = 0)==2)[0][0])
+#        visit_phc_or_ss[i] = -1 if len(np.where(np.argmax(p_matrix[:,i,i:], axis = 0)!=0)[0])==0 else int(np.where(np.argmax(p_matrix[:,i,i:], axis = 0)!=0)[0][0])
+#        
+#        # If PHC chosen first then visit_SS = -1 else otherwise
+#        if (visit_phc[i]!=-1) & (visit_ss[i]!=-1):
+#            if visit_phc[i]>visit_ss[i]:
+#                visit_phc[i] = -1
+#            elif visit_phc[i]<visit_ss[i]:
+#                visit_ss[i] = -1    
     
     
     # In[17]:
@@ -402,16 +537,16 @@ def main(iternum, scen_name, ss_mode, ss_replenishment_source, replenishment_dis
         
     
     
-    median_delay , delay_greater_30, frac_vac = total_delay_calc_func(time_window, demand_estimate_range, supply_demand_hc_level)
-    return median_delay, delay_greater_30, frac_vac
+#    median_delay , delay_greater_30, frac_vac = total_delay_calc_func(time_window, demand_estimate_range, supply_demand_hc_level)
+#    return median_delay, delay_greater_30, frac_vac
 #    choice_delay = [i if i>=0 else j for i, j in zip(visit_ss,visit_phc)]
 #    
 #    total_delay = [i if i>0 else j for i, j in zip(supply_demand_hc_level['demand_fulfilled_dates']['ss'],supply_demand_hc_level['demand_fulfilled_dates']['phc'])]
 #    
-#    index_array = np.array([i for i in range(time_window)])
+    index_array = np.array([i for i in range(time_window)])
 #    
 #    total_delay_phc = [i-j if i!=0 else 0 for (i,j) in zip(supply_demand_hc_level['demand_fulfilled_dates']['phc'], index_array)]
-#    total_delay_ss = [i-j if i!=0 else 0 for (i,j) in zip(supply_demand_hc_level['demand_fulfilled_dates']['ss'], index_array)]
+    total_delay_ss = [i-j if i!=0 else 0 for (i,j) in zip(supply_demand_hc_level['demand_fulfilled_dates']['ss'], index_array)]
 #    
 #    supply_delay_phc = np.array([i-j if ((k!=0)&(j!=-1)) else 0 for (i,j,k) in zip(total_delay_phc, visit_phc, supply_demand_hc_level['demand_fulfilled_dates']['phc'])])
 #    supply_delay_ss = np.array([i-j if ((k!=0)&(j!=-1)) else 0 for (i,j,k) in zip(total_delay_ss, visit_ss, supply_demand_hc_level['demand_fulfilled_dates']['ss'])])
@@ -440,7 +575,15 @@ def main(iternum, scen_name, ss_mode, ss_replenishment_source, replenishment_dis
 #    
 #      
 #    # In[71]:
-#    
+#
+#    out_hist_choice_delay_phc = np.reshape(np.histogram(total_delay_ss, bins=np.arange(0,101,5))[0], weights = weights=np.ones(len(total_delay_ss)) / len(total_delay_ss)) , (1, len(np.histogram(total_delay_ss, bins=np.arange(0,365,30))[0])+1)
+    out_hist_total_delay_phc = np.reshape(np.histogram(total_delay_ss, bins=np.arange(0,101,5), weights = np.ones(len(total_delay_ss)) / len(total_delay_ss))[0], (1,20))
+    path_data = Path.cwd().parent / 'data'
+
+    with open(path_data / f'07 out_total_delay_phc_{scen_name}_{ss_mode}.csv', 'a') as f:
+        np.savetxt(f, out_hist_total_delay_phc, fmt='%s', delimiter=',', newline='\n')
+
+    
 #    with open(path_data / f'07 out_choice_delay_phc_{scen_name}_{ss_mode}.csv', 'a') as f:
 #        np.savetxt(f, out_hist_choice_delay_phc, fmt='%s', delimiter=',', newline='\n')
 #    with open(path_data / f'07 out_choice_delay_ss_{scen_name}_{ss_mode}.csv', 'a') as f:
